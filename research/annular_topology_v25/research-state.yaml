@@ -1,0 +1,11 @@
+status: completed_negative
+geometry_directory: reports/annular_topology_v25/geometry_20260912_022429
+tests_passed: 5
+layouts_screened: 4200
+screen_passed: 35
+continuous_certificates_checked: 35
+complete_layouts: 2
+eligible_layouts: 0
+source_scene_runs: 0
+decision: no_geometry_candidate_meets_registered_gate
+official_calls: 0

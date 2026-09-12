@@ -1,0 +1,1783 @@
+[
+  {
+    "action": "measure",
+    "channel": 1,
+    "position": [
+      0.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 5.0
+  },
+  {
+    "action": "measure",
+    "channel": 2,
+    "position": [
+      0.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 11.0
+  },
+  {
+    "action": "measure",
+    "channel": 3,
+    "position": [
+      0.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 17.0
+  },
+  {
+    "action": "measure",
+    "channel": 4,
+    "position": [
+      0.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 23.0
+  },
+  {
+    "action": "measure",
+    "channel": 5,
+    "position": [
+      0.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 29.0
+  },
+  {
+    "action": "measure",
+    "channel": 6,
+    "position": [
+      0.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 35.0
+  },
+  {
+    "action": "measure",
+    "channel": 7,
+    "position": [
+      0.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 41.0
+  },
+  {
+    "action": "measure",
+    "channel": 8,
+    "position": [
+      0.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 47.0
+  },
+  {
+    "action": "measure",
+    "channel": 9,
+    "position": [
+      0.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 53.0
+  },
+  {
+    "action": "measure",
+    "channel": 10,
+    "position": [
+      0.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 59.0
+  },
+  {
+    "action": "measure",
+    "channel": 11,
+    "position": [
+      0.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 65.0
+  },
+  {
+    "action": "measure",
+    "channel": 12,
+    "position": [
+      0.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 71.0
+  },
+  {
+    "action": "measure",
+    "channel": 13,
+    "position": [
+      0.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 77.0
+  },
+  {
+    "action": "measure",
+    "channel": 14,
+    "position": [
+      0.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 83.0
+  },
+  {
+    "action": "measure",
+    "channel": 15,
+    "position": [
+      0.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 89.0
+  },
+  {
+    "action": "measure",
+    "channel": 16,
+    "position": [
+      0.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 95.0
+  },
+  {
+    "action": "measure",
+    "channel": 17,
+    "position": [
+      0.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 101.0
+  },
+  {
+    "action": "measure",
+    "channel": 18,
+    "position": [
+      0.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 107.0
+  },
+  {
+    "action": "measure",
+    "channel": 19,
+    "position": [
+      0.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 113.0
+  },
+  {
+    "action": "measure",
+    "channel": 20,
+    "position": [
+      0.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 119.0
+  },
+  {
+    "action": "measure",
+    "channel": 20,
+    "position": [
+      1125.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 349.0
+  },
+  {
+    "action": "measure",
+    "channel": 19,
+    "position": [
+      1125.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 355.0
+  },
+  {
+    "action": "measure",
+    "channel": 18,
+    "position": [
+      1125.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 361.0
+  },
+  {
+    "action": "measure",
+    "channel": 17,
+    "position": [
+      1125.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 367.0
+  },
+  {
+    "action": "measure",
+    "channel": 16,
+    "position": [
+      1125.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 373.0
+  },
+  {
+    "action": "measure",
+    "channel": 15,
+    "position": [
+      1125.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 379.0
+  },
+  {
+    "action": "measure",
+    "channel": 14,
+    "position": [
+      1125.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 385.0
+  },
+  {
+    "action": "measure",
+    "channel": 13,
+    "position": [
+      1125.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 391.0
+  },
+  {
+    "action": "measure",
+    "channel": 12,
+    "position": [
+      1125.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 397.0
+  },
+  {
+    "action": "measure",
+    "channel": 11,
+    "position": [
+      1125.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 403.0
+  },
+  {
+    "action": "measure",
+    "channel": 10,
+    "position": [
+      1125.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 409.0
+  },
+  {
+    "action": "measure",
+    "channel": 9,
+    "position": [
+      1125.0,
+      0.0
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 350.1
+    },
+    "virtual_seconds": 415.0
+  },
+  {
+    "action": "measure",
+    "channel": 8,
+    "position": [
+      1125.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 421.0
+  },
+  {
+    "action": "measure",
+    "channel": 7,
+    "position": [
+      1125.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 427.0
+  },
+  {
+    "action": "measure",
+    "channel": 6,
+    "position": [
+      1125.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 433.0
+  },
+  {
+    "action": "measure",
+    "channel": 5,
+    "position": [
+      1125.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 439.0
+  },
+  {
+    "action": "measure",
+    "channel": 4,
+    "position": [
+      1125.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 445.0
+  },
+  {
+    "action": "measure",
+    "channel": 3,
+    "position": [
+      1125.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 451.0
+  },
+  {
+    "action": "measure",
+    "channel": 2,
+    "position": [
+      1125.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 457.0
+  },
+  {
+    "action": "measure",
+    "channel": 1,
+    "position": [
+      1125.0,
+      0.0
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 463.0
+  },
+  {
+    "action": "measure",
+    "channel": 9,
+    "position": [
+      1367.3149619554194,
+      -185.73365531627297
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 8.53
+    },
+    "virtual_seconds": 530.0617823207284
+  },
+  {
+    "action": "measure",
+    "channel": 9,
+    "position": [
+      1746.842640857551,
+      -148.14643870332236
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 22.38
+    },
+    "virtual_seconds": 611.3386616238431
+  },
+  {
+    "action": "clear",
+    "channel": 9,
+    "position": [
+      1793.933796551364,
+      -128.01469163459936
+    ],
+    "response": {
+      "result": "success"
+    },
+    "virtual_seconds": 626.581442856727
+  },
+  {
+    "action": "measure",
+    "channel": 1,
+    "position": [
+      800.0000000000002,
+      -1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 953.1763544295145
+  },
+  {
+    "action": "measure",
+    "channel": 2,
+    "position": [
+      800.0000000000002,
+      -1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 959.1763544295145
+  },
+  {
+    "action": "measure",
+    "channel": 3,
+    "position": [
+      800.0000000000002,
+      -1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 965.1763544295145
+  },
+  {
+    "action": "measure",
+    "channel": 4,
+    "position": [
+      800.0000000000002,
+      -1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 971.1763544295145
+  },
+  {
+    "action": "measure",
+    "channel": 5,
+    "position": [
+      800.0000000000002,
+      -1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 977.1763544295145
+  },
+  {
+    "action": "measure",
+    "channel": 6,
+    "position": [
+      800.0000000000002,
+      -1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 983.1763544295145
+  },
+  {
+    "action": "measure",
+    "channel": 7,
+    "position": [
+      800.0000000000002,
+      -1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 989.1763544295145
+  },
+  {
+    "action": "measure",
+    "channel": 8,
+    "position": [
+      800.0000000000002,
+      -1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 995.1763544295145
+  },
+  {
+    "action": "measure",
+    "channel": 10,
+    "position": [
+      800.0000000000002,
+      -1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1001.1763544295145
+  },
+  {
+    "action": "measure",
+    "channel": 11,
+    "position": [
+      800.0000000000002,
+      -1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1007.1763544295145
+  },
+  {
+    "action": "measure",
+    "channel": 12,
+    "position": [
+      800.0000000000002,
+      -1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1013.1763544295145
+  },
+  {
+    "action": "measure",
+    "channel": 13,
+    "position": [
+      800.0000000000002,
+      -1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1019.1763544295145
+  },
+  {
+    "action": "measure",
+    "channel": 14,
+    "position": [
+      800.0000000000002,
+      -1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1025.1763544295145
+  },
+  {
+    "action": "measure",
+    "channel": 15,
+    "position": [
+      800.0000000000002,
+      -1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1031.1763544295145
+  },
+  {
+    "action": "measure",
+    "channel": 16,
+    "position": [
+      800.0000000000002,
+      -1385.6406460551018
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 223.51
+    },
+    "virtual_seconds": 1037.1763544295145
+  },
+  {
+    "action": "measure",
+    "channel": 17,
+    "position": [
+      800.0000000000002,
+      -1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1043.1763544295145
+  },
+  {
+    "action": "measure",
+    "channel": 18,
+    "position": [
+      800.0000000000002,
+      -1385.6406460551018
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 20.39
+    },
+    "virtual_seconds": 1049.1763544295145
+  },
+  {
+    "action": "measure",
+    "channel": 19,
+    "position": [
+      800.0000000000002,
+      -1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1055.1763544295145
+  },
+  {
+    "action": "measure",
+    "channel": 20,
+    "position": [
+      800.0000000000002,
+      -1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1061.1763544295145
+  },
+  {
+    "action": "measure",
+    "channel": 18,
+    "position": [
+      1075.93736539747,
+      -1410.6074918553682
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 38.84
+    },
+    "virtual_seconds": 1122.5892673692656
+  },
+  {
+    "action": "measure",
+    "channel": 16,
+    "position": [
+      1075.93736539747,
+      -1410.6074918553682
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 206.61
+    },
+    "virtual_seconds": 1128.5892673692656
+  },
+  {
+    "action": "measure",
+    "channel": 18,
+    "position": [
+      1312.838653599229,
+      -1179.6003817511091
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 16.29
+    },
+    "virtual_seconds": 1200.7667575816859
+  },
+  {
+    "action": "clear",
+    "channel": 18,
+    "position": [
+      1374.4990358491425,
+      -1161.5314650647356
+    ],
+    "response": {
+      "result": "success"
+    },
+    "virtual_seconds": 1218.6174205831414
+  },
+  {
+    "action": "measure",
+    "channel": 16,
+    "position": [
+      482.04150145636936,
+      -1724.1123770315965
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 203.94
+    },
+    "virtual_seconds": 1435.6129402705408
+  },
+  {
+    "action": "clear",
+    "channel": 16,
+    "position": [
+      427.5729664385758,
+      -1747.1600071796977
+    ],
+    "response": {
+      "result": "success"
+    },
+    "virtual_seconds": 1452.4417433586445
+  },
+  {
+    "action": "measure",
+    "channel": 20,
+    "position": [
+      -800.0000000000007,
+      -1385.6406460551016
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1714.3817079127361
+  },
+  {
+    "action": "measure",
+    "channel": 19,
+    "position": [
+      -800.0000000000007,
+      -1385.6406460551016
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1720.3817079127361
+  },
+  {
+    "action": "measure",
+    "channel": 17,
+    "position": [
+      -800.0000000000007,
+      -1385.6406460551016
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1726.3817079127361
+  },
+  {
+    "action": "measure",
+    "channel": 15,
+    "position": [
+      -800.0000000000007,
+      -1385.6406460551016
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1732.3817079127361
+  },
+  {
+    "action": "measure",
+    "channel": 14,
+    "position": [
+      -800.0000000000007,
+      -1385.6406460551016
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1738.3817079127361
+  },
+  {
+    "action": "measure",
+    "channel": 13,
+    "position": [
+      -800.0000000000007,
+      -1385.6406460551016
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1744.3817079127361
+  },
+  {
+    "action": "measure",
+    "channel": 12,
+    "position": [
+      -800.0000000000007,
+      -1385.6406460551016
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1750.3817079127361
+  },
+  {
+    "action": "measure",
+    "channel": 11,
+    "position": [
+      -800.0000000000007,
+      -1385.6406460551016
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1756.3817079127361
+  },
+  {
+    "action": "measure",
+    "channel": 10,
+    "position": [
+      -800.0000000000007,
+      -1385.6406460551016
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1762.3817079127361
+  },
+  {
+    "action": "measure",
+    "channel": 8,
+    "position": [
+      -800.0000000000007,
+      -1385.6406460551016
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 148.16
+    },
+    "virtual_seconds": 1768.3817079127361
+  },
+  {
+    "action": "measure",
+    "channel": 7,
+    "position": [
+      -800.0000000000007,
+      -1385.6406460551016
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1774.3817079127361
+  },
+  {
+    "action": "measure",
+    "channel": 6,
+    "position": [
+      -800.0000000000007,
+      -1385.6406460551016
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1780.3817079127361
+  },
+  {
+    "action": "measure",
+    "channel": 5,
+    "position": [
+      -800.0000000000007,
+      -1385.6406460551016
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1786.3817079127361
+  },
+  {
+    "action": "measure",
+    "channel": 4,
+    "position": [
+      -800.0000000000007,
+      -1385.6406460551016
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1792.3817079127361
+  },
+  {
+    "action": "measure",
+    "channel": 3,
+    "position": [
+      -800.0000000000007,
+      -1385.6406460551016
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 294.46
+    },
+    "virtual_seconds": 1798.3817079127361
+  },
+  {
+    "action": "measure",
+    "channel": 2,
+    "position": [
+      -800.0000000000007,
+      -1385.6406460551016
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1804.3817079127361
+  },
+  {
+    "action": "measure",
+    "channel": 1,
+    "position": [
+      -800.0000000000007,
+      -1385.6406460551016
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 1810.3817079127361
+  },
+  {
+    "action": "measure",
+    "channel": 3,
+    "position": [
+      -802.738150875067,
+      -1528.2387493199592
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 312.92
+    },
+    "virtual_seconds": 1844.9065858440786
+  },
+  {
+    "action": "measure",
+    "channel": 8,
+    "position": [
+      -802.738150875067,
+      -1528.2387493199592
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 140.49
+    },
+    "virtual_seconds": 1850.9065858440786
+  },
+  {
+    "action": "clear",
+    "channel": 3,
+    "position": [
+      -674.0226446489062,
+      -1661.9407567112635
+    ],
+    "response": {
+      "result": "success"
+    },
+    "virtual_seconds": 1893.024726058007
+  },
+  {
+    "action": "measure",
+    "channel": 8,
+    "position": [
+      -1363.475765469143,
+      -1121.6739452551285
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 132.98
+    },
+    "virtual_seconds": 2073.2084962388935
+  },
+  {
+    "action": "measure",
+    "channel": 8,
+    "position": [
+      -1528.149149045624,
+      -978.6250674899884
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 89.49
+    },
+    "virtual_seconds": 2121.834316432166
+  },
+  {
+    "action": "clear",
+    "channel": 8,
+    "position": [
+      -1527.9636375399639,
+      -944.8202629000832
+    ],
+    "response": {
+      "result": "success"
+    },
+    "virtual_seconds": 2133.595379153012
+  },
+  {
+    "action": "measure",
+    "channel": 1,
+    "position": [
+      -1600.0,
+      1.9594348786357654e-13
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 147.53
+    },
+    "virtual_seconds": 2329.1078659925925
+  },
+  {
+    "action": "measure",
+    "channel": 2,
+    "position": [
+      -1600.0,
+      1.9594348786357654e-13
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2335.1078659925925
+  },
+  {
+    "action": "measure",
+    "channel": 4,
+    "position": [
+      -1600.0,
+      1.9594348786357654e-13
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2341.1078659925925
+  },
+  {
+    "action": "measure",
+    "channel": 5,
+    "position": [
+      -1600.0,
+      1.9594348786357654e-13
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2347.1078659925925
+  },
+  {
+    "action": "measure",
+    "channel": 6,
+    "position": [
+      -1600.0,
+      1.9594348786357654e-13
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2353.1078659925925
+  },
+  {
+    "action": "measure",
+    "channel": 7,
+    "position": [
+      -1600.0,
+      1.9594348786357654e-13
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2359.1078659925925
+  },
+  {
+    "action": "measure",
+    "channel": 10,
+    "position": [
+      -1600.0,
+      1.9594348786357654e-13
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2365.1078659925925
+  },
+  {
+    "action": "measure",
+    "channel": 11,
+    "position": [
+      -1600.0,
+      1.9594348786357654e-13
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2371.1078659925925
+  },
+  {
+    "action": "measure",
+    "channel": 12,
+    "position": [
+      -1600.0,
+      1.9594348786357654e-13
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2377.1078659925925
+  },
+  {
+    "action": "measure",
+    "channel": 13,
+    "position": [
+      -1600.0,
+      1.9594348786357654e-13
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2383.1078659925925
+  },
+  {
+    "action": "measure",
+    "channel": 14,
+    "position": [
+      -1600.0,
+      1.9594348786357654e-13
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2389.1078659925925
+  },
+  {
+    "action": "measure",
+    "channel": 15,
+    "position": [
+      -1600.0,
+      1.9594348786357654e-13
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2395.1078659925925
+  },
+  {
+    "action": "measure",
+    "channel": 17,
+    "position": [
+      -1600.0,
+      1.9594348786357654e-13
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2401.1078659925925
+  },
+  {
+    "action": "measure",
+    "channel": 19,
+    "position": [
+      -1600.0,
+      1.9594348786357654e-13
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2407.1078659925925
+  },
+  {
+    "action": "measure",
+    "channel": 20,
+    "position": [
+      -1600.0,
+      1.9594348786357654e-13
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2413.1078659925925
+  },
+  {
+    "action": "measure",
+    "channel": 1,
+    "position": [
+      -1650.9906047096665,
+      89.875030977705
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 165.78
+    },
+    "virtual_seconds": 2439.774324771881
+  },
+  {
+    "action": "clear",
+    "channel": 1,
+    "position": [
+      -1789.0214794332633,
+      124.98331988959053
+    ],
+    "response": {
+      "result": "success"
+    },
+    "virtual_seconds": 2473.2594888593717
+  },
+  {
+    "action": "measure",
+    "channel": 20,
+    "position": [
+      -799.9999999999997,
+      1385.640646055102
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2799.7229270731646
+  },
+  {
+    "action": "measure",
+    "channel": 19,
+    "position": [
+      -799.9999999999997,
+      1385.640646055102
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2805.7229270731646
+  },
+  {
+    "action": "measure",
+    "channel": 17,
+    "position": [
+      -799.9999999999997,
+      1385.640646055102
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 45.51
+    },
+    "virtual_seconds": 2811.7229270731646
+  },
+  {
+    "action": "measure",
+    "channel": 15,
+    "position": [
+      -799.9999999999997,
+      1385.640646055102
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2817.7229270731646
+  },
+  {
+    "action": "measure",
+    "channel": 14,
+    "position": [
+      -799.9999999999997,
+      1385.640646055102
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2823.7229270731646
+  },
+  {
+    "action": "measure",
+    "channel": 13,
+    "position": [
+      -799.9999999999997,
+      1385.640646055102
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2829.7229270731646
+  },
+  {
+    "action": "measure",
+    "channel": 12,
+    "position": [
+      -799.9999999999997,
+      1385.640646055102
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2835.7229270731646
+  },
+  {
+    "action": "measure",
+    "channel": 11,
+    "position": [
+      -799.9999999999997,
+      1385.640646055102
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2841.7229270731646
+  },
+  {
+    "action": "measure",
+    "channel": 10,
+    "position": [
+      -799.9999999999997,
+      1385.640646055102
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2847.7229270731646
+  },
+  {
+    "action": "measure",
+    "channel": 7,
+    "position": [
+      -799.9999999999997,
+      1385.640646055102
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2853.7229270731646
+  },
+  {
+    "action": "measure",
+    "channel": 6,
+    "position": [
+      -799.9999999999997,
+      1385.640646055102
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 200.39
+    },
+    "virtual_seconds": 2859.7229270731646
+  },
+  {
+    "action": "measure",
+    "channel": 5,
+    "position": [
+      -799.9999999999997,
+      1385.640646055102
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2865.7229270731646
+  },
+  {
+    "action": "measure",
+    "channel": 4,
+    "position": [
+      -799.9999999999997,
+      1385.640646055102
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2871.7229270731646
+  },
+  {
+    "action": "measure",
+    "channel": 2,
+    "position": [
+      -799.9999999999997,
+      1385.640646055102
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 2877.7229270731646
+  },
+  {
+    "action": "measure",
+    "channel": 6,
+    "position": [
+      -1075.9373653974694,
+      1410.6074918553688
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 218.84
+    },
+    "virtual_seconds": 2939.1358400129157
+  },
+  {
+    "action": "measure",
+    "channel": 17,
+    "position": [
+      -1075.9373653974694,
+      1410.6074918553688
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 28.61
+    },
+    "virtual_seconds": 2945.1358400129157
+  },
+  {
+    "action": "measure",
+    "channel": 6,
+    "position": [
+      -1312.8386535992279,
+      1179.60038175111
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 196.29
+    },
+    "virtual_seconds": 3017.313330225336
+  },
+  {
+    "action": "clear",
+    "channel": 6,
+    "position": [
+      -1374.4990358491414,
+      1161.5314650647365
+    ],
+    "response": {
+      "result": "success"
+    },
+    "virtual_seconds": 3035.1639932267917
+  },
+  {
+    "action": "measure",
+    "channel": 17,
+    "position": [
+      -496.44072468138074,
+      1734.6944617031263
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 12.15
+    },
+    "virtual_seconds": 3250.8782958888924
+  },
+  {
+    "action": "clear",
+    "channel": 17,
+    "position": [
+      -436.15775681564014,
+      1746.7927495528493
+    ],
+    "response": {
+      "result": "success"
+    },
+    "virtual_seconds": 3268.175295170988
+  },
+  {
+    "action": "measure",
+    "channel": 2,
+    "position": [
+      800.0000000000002,
+      1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 3531.7421285635137
+  },
+  {
+    "action": "measure",
+    "channel": 4,
+    "position": [
+      800.0000000000002,
+      1385.6406460551018
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 112.46
+    },
+    "virtual_seconds": 3537.7421285635137
+  },
+  {
+    "action": "measure",
+    "channel": 5,
+    "position": [
+      800.0000000000002,
+      1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 3543.7421285635137
+  },
+  {
+    "action": "measure",
+    "channel": 7,
+    "position": [
+      800.0000000000002,
+      1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 3549.7421285635137
+  },
+  {
+    "action": "measure",
+    "channel": 10,
+    "position": [
+      800.0000000000002,
+      1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 3555.7421285635137
+  },
+  {
+    "action": "measure",
+    "channel": 11,
+    "position": [
+      800.0000000000002,
+      1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 3561.7421285635137
+  },
+  {
+    "action": "measure",
+    "channel": 12,
+    "position": [
+      800.0000000000002,
+      1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 3567.7421285635137
+  },
+  {
+    "action": "measure",
+    "channel": 13,
+    "position": [
+      800.0000000000002,
+      1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 3573.7421285635137
+  },
+  {
+    "action": "measure",
+    "channel": 14,
+    "position": [
+      800.0000000000002,
+      1385.6406460551018
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 328.16
+    },
+    "virtual_seconds": 3579.7421285635137
+  },
+  {
+    "action": "measure",
+    "channel": 15,
+    "position": [
+      800.0000000000002,
+      1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 3585.7421285635137
+  },
+  {
+    "action": "measure",
+    "channel": 19,
+    "position": [
+      800.0000000000002,
+      1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 3591.7421285635137
+  },
+  {
+    "action": "measure",
+    "channel": 20,
+    "position": [
+      800.0000000000002,
+      1385.6406460551018
+    ],
+    "response": {
+      "result": "no_signal"
+    },
+    "virtual_seconds": 3597.7421285635137
+  },
+  {
+    "action": "measure",
+    "channel": 4,
+    "position": [
+      807.4433180087717,
+      1523.075301749994
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 130.94
+    },
+    "virtual_seconds": 3631.2693424210424
+  },
+  {
+    "action": "measure",
+    "channel": 14,
+    "position": [
+      807.4433180087717,
+      1523.075301749994
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 320.56
+    },
+    "virtual_seconds": 3637.2693424210424
+  },
+  {
+    "action": "clear",
+    "channel": 4,
+    "position": [
+      687.8380948620284,
+      1656.2815491597655
+    ],
+    "response": {
+      "result": "success"
+    },
+    "virtual_seconds": 3678.073986674533
+  },
+  {
+    "action": "measure",
+    "channel": 14,
+    "position": [
+      1361.4846014461627,
+      1122.554355175518
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 313.18
+    },
+    "virtual_seconds": 3854.9651538043545
+  },
+  {
+    "action": "measure",
+    "channel": 14,
+    "position": [
+      1527.8155409294773,
+      978.9559621352612
+    ],
+    "response": {
+      "result": "direction",
+      "bearing_deg": 270.17
+    },
+    "virtual_seconds": 3903.913523472931
+  },
+  {
+    "action": "clear",
+    "channel": 14,
+    "position": [
+      1528.0345352724248,
+      944.7208647345276
+    ],
+    "response": {
+      "result": "success"
+    },
+    "virtual_seconds": 3915.7606830374802
+  }
+]

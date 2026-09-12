@@ -1,0 +1,16 @@
+{
+  "status": "UNKNOWN",
+  "wall_seconds": 30.00580759999866,
+  "point_pool_size": 649,
+  "witness_groups": 3244,
+  "minimum_spacing_constraints": 432,
+  "added_cardinality_cuts": 17,
+  "objective_bound": 19.0,
+  "branches": 4710582,
+  "conflicts": 914144,
+  "model_sha256": "c51b4fef312cd2fc86c2fb6cd0f6a249d042ac30fa8768621f778b9dc5e3a7b4",
+  "iteration": 0,
+  "source_witness_count": 13392,
+  "original_groups": 12144,
+  "retained_groups": 3244
+}

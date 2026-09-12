@@ -1,0 +1,15 @@
+status: rejected_at_development_gate
+objective_status: active_not_achieved
+problem: q4
+official_calls: 0
+development_directory: reports/bundled_motion_v17/dev1_20260912_002711
+cases_per_mode: 6
+previous_mean: 450.4566597955908
+bundled_mean: 451.8077453653888
+bundled_transit_mean: 449.54916482349694
+best_saved_seconds_per_source: 0.907494972093868
+minimum_expansion_gain_seconds_per_source: 1
+all_main_runs: 18
+all_main_successes: 18
+independent_validation_started: false
+lesson: estimated_clearance_exits_are_not_observed_outcomes_and_can_misprice_future_travel

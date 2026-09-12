@@ -1,0 +1,16 @@
+{
+  "source_hashes_unchanged": true,
+  "old_frozen_files": 46,
+  "runs": 64,
+  "successes": 64,
+  "actions_audited": 17908,
+  "max_clock_error": 0.0,
+  "replays_passed": 2,
+  "replays_total": 2,
+  "http_passed": 3,
+  "http_total": 3,
+  "performance_gate_passed": true,
+  "official_calls": 0,
+  "goal_achieved": false,
+  "eligible_as_next_offline_candidate": true
+}

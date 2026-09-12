@@ -1,0 +1,18 @@
+{
+  "status": "passed_unknown_status_preserved",
+  "point_pool_size": 649,
+  "witness_groups_checked": 12144,
+  "known_21_point_reference_satisfies_all_groups": true,
+  "known_reference_continuously_complete": true,
+  "solver_status": "UNKNOWN",
+  "solver_wall_seconds": 30.016875100001926,
+  "solver_branches": 3690250,
+  "certified_new_networks": 0,
+  "new_policy_runs": 0,
+  "new_holdout": false,
+  "official_calls": 0,
+  "formal_calls": 0,
+  "source_files": 80,
+  "audit_source_sha256": "46f1064077a38206fb70dc407d9101f52e293efb19ae77f4398bbdf06b7fd34f",
+  "conclusion": "No incumbent before the registered cutoff; feasibility remains unresolved, not disproved."
+}

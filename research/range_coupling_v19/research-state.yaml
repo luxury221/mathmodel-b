@@ -1,0 +1,25 @@
+status: rejected_after_final_r3_development
+objective_status: active_not_achieved
+official_calls: 0
+current_revision: r3_box_and_conservative_roundoff_guard
+main_runs_all_revisions: 120
+main_successes_all_revisions: 120
+final_development:
+  - reports/range_coupling_v19/dev3_stable_20260912_013709
+  - reports/range_coupling_v19/q4_expand3_20260912_014410
+q3_final:
+  cases: 6
+  previous_mean: 232.35885842412043
+  candidate_mean: 232.35885842412043
+  decision: no_gain
+q4_final:
+  cases: 18
+  previous_mean: 446.1337321046458
+  candidate_mean: 445.5212626692175
+  improvement_percent: 0.13728382127461414
+  decision: below_one_percent_validation_gate
+independent_validation_started: false
+numeric_corrections:
+  - Construct halfplanes from a large box instead of recutting the source domain boundary.
+  - Keep the larger original position region when removed area is at most 1e-6 square meters.
+restriction: The roundoff guard never applies to discovery coverage termination.

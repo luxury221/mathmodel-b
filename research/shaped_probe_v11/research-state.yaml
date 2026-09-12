@@ -1,0 +1,42 @@
+date: 2026-09-11
+goal_status: active_not_achieved
+phase_status: independent_validation_complete_small_gain
+storage: D_drive_only
+official_calls: 0
+development:
+  scenes: 18
+  paired_runs: 72
+  successes: 72
+  case_equal_seconds_per_source:
+    previous: 460.3554725019283
+    narrow70: 451.1076808372124
+    narrow85: 447.2570796775241
+    shaped_cost: 446.1337321046458
+selected: shaped_cost
+frozen_manifest: reports/shaped_probe_validation_v11/validation_20260911_223412/selection.json
+validation_directory: reports/shaped_probe_validation_v11/validation_20260911_223412
+new_seed_count: 32
+prior_seed_count: 864
+seed_overlap: 0
+validation:
+  scenes: 32
+  paired_runs: 64
+  successes: 64
+  previous_mean: 467.4190824913961
+  candidate_mean: 461.4480937899562
+  improvement_percent: 1.2774379406193415
+  faster: 18
+  slower: 10
+  tied: 4
+  worst_regression_percent: 12.5004451736614
+  audited_actions: 17908
+  max_clock_error: 0.0
+  deterministic_replays_passed: 2
+  local_http_passed: 3
+  regression_tests_passed: 53
+  source_files_unchanged: 54
+  archived_source_files_matching: 54
+  exploratory_gain_interval_seconds_per_source: [-0.23242126926610313, 12.146121537752325]
+decision: retain_as_offline_comparison_candidate_not_a_breakthrough_or_official_upgrade
+next_direction: reduce_discovery_patrol_and_scan_costs_without_weakening_complete_coverage
+report: reports/20260911_第四问继续优化_v11阶段报告.md

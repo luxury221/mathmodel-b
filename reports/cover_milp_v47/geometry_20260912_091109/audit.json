@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "source_files_checked": 94,
+  "original_groups_rebuilt": 12144,
+  "exact_point_budget_checks": 11880,
+  "integer_model_rows_checked": 3695,
+  "solver_status": "UNKNOWN",
+  "returned_candidates": 0,
+  "continuous_complete": 0,
+  "eligible_count": 0,
+  "official_calls": 0,
+  "formal_calls": 0,
+  "policy_runs": 0,
+  "new_holdout": false,
+  "continuous_plane_infeasibility_claimed": false
+}

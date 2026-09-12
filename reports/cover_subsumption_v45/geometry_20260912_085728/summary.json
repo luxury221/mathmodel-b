@@ -1,0 +1,18 @@
+{
+  "iterations": 1,
+  "statuses": [
+    "UNKNOWN"
+  ],
+  "returned_candidates": 0,
+  "continuous_complete": 0,
+  "eligible_count": 0,
+  "eligible": null,
+  "source_hashes_unchanged": true,
+  "original_groups_first_round": 12144,
+  "retained_groups_first_round": 3244,
+  "new_holdout": false,
+  "policy_runs": 0,
+  "official_calls": 0,
+  "formal_calls": 0,
+  "scope": "Equivalent discrete covering model, not a mission-time result or global infeasibility proof"
+}

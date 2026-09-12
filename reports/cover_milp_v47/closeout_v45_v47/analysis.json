@@ -1,0 +1,34 @@
+{
+  "status": "passed",
+  "frozen_files_and_copies_verified": {
+    "reports/cover_subsumption_v45/geometry_20260912_085728": 85,
+    "reports/layer_cardinality_v46/geometry_20260912_090504": 90,
+    "reports/cover_milp_v47/geometry_20260912_091109": 94
+  },
+  "new_tests": 27,
+  "regression_tests": 20,
+  "total_tests": 47,
+  "pytest_returncode": 0,
+  "pytest_command": [
+    "D:\\数模B题\\B题\\.venv\\Scripts\\python.exe",
+    "-m",
+    "pytest",
+    "research/cover_milp_v47/test_milp.py",
+    "research/layer_cardinality_v46/test_layer_bounds.py",
+    "research/cover_subsumption_v45/test_reduction.py",
+    "research/dual_guided_network_v44/test_network.py",
+    "research/shaped_probe_v11/test_shaped_probe.py",
+    "research/q4_action_phase_v42/test_phase.py",
+    "-q"
+  ],
+  "current_state_consistent": true,
+  "q4_frozen_official_baseline_mean": 571.5379450378355,
+  "q4_baseline_changed": false,
+  "new_policy_runs": 0,
+  "official_calls": 0,
+  "formal_calls": 0,
+  "new_holdout": false,
+  "goal_status": "active_not_achieved",
+  "generated_outputs_and_temp_on_d": true,
+  "new_networks": 0
+}

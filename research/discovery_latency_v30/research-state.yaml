@@ -1,0 +1,9 @@
+status: completed_rejected
+main_runs: 60
+successes: 60
+regression_tests_passed: 7
+identity_passed: true
+output: reports/discovery_latency_v30/dev1_20260912_033716
+expanded: false
+new_holdout_used: false
+official_calls_in_this_experiment: 0

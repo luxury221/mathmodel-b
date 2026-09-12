@@ -1,0 +1,101 @@
+{
+  "evidence_type": "local_offline_simulation",
+  "official_calls": 0,
+  "cases_per_problem": 32,
+  "paired_runs_per_problem": 64,
+  "splits": {
+    "holdout": 24,
+    "stress": 8
+  },
+  "summaries": {
+    "q3": {
+      "holdout": {
+        "scenes": 24,
+        "all_passed": true,
+        "candidate_successes": 24,
+        "mode": "station_only",
+        "previous_mean": 241.8951390878918,
+        "candidate_mean": 229.8149628498783,
+        "improvement_percent": 4.9939722987257795,
+        "faster": 17,
+        "slower": 1,
+        "tied": 6,
+        "worst_regression_percent": 3.8498790554193807,
+        "target_met_on_this_phase": false
+      },
+      "stress": {
+        "scenes": 8,
+        "all_passed": true,
+        "candidate_successes": 8,
+        "mode": "station_only",
+        "previous_mean": 232.23310962018988,
+        "candidate_mean": 224.04771317343744,
+        "improvement_percent": 3.5246466191403147,
+        "faster": 7,
+        "slower": 1,
+        "tied": 0,
+        "worst_regression_percent": 1.0218487576441282,
+        "target_met_on_this_phase": false
+      },
+      "combined": {
+        "scenes": 32,
+        "all_passed": true,
+        "candidate_successes": 32,
+        "mode": "station_only",
+        "previous_mean": 239.47963172096632,
+        "candidate_mean": 228.37315043076808,
+        "improvement_percent": 4.637756125806614,
+        "faster": 24,
+        "slower": 2,
+        "tied": 6,
+        "worst_regression_percent": 3.8498790554193807,
+        "target_met_on_this_phase": false
+      }
+    },
+    "q4": {
+      "holdout": {
+        "scenes": 24,
+        "all_passed": true,
+        "candidate_successes": 24,
+        "mode": "shaped_cost",
+        "previous_mean": 465.4208840265293,
+        "candidate_mean": 459.14433531392245,
+        "improvement_percent": 1.3485747906939793,
+        "faster": 12,
+        "slower": 8,
+        "tied": 4,
+        "worst_regression_percent": 7.350087775105729,
+        "target_met_on_this_phase": false
+      },
+      "stress": {
+        "scenes": 8,
+        "all_passed": true,
+        "candidate_successes": 8,
+        "mode": "shaped_cost",
+        "previous_mean": 473.4136778859966,
+        "candidate_mean": 468.3593692180575,
+        "improvement_percent": 1.0676304686651261,
+        "faster": 6,
+        "slower": 2,
+        "tied": 0,
+        "worst_regression_percent": 12.5004451736614,
+        "target_met_on_this_phase": false
+      },
+      "combined": {
+        "scenes": 32,
+        "all_passed": true,
+        "candidate_successes": 32,
+        "mode": "shaped_cost",
+        "previous_mean": 467.4190824913961,
+        "candidate_mean": 461.4480937899562,
+        "improvement_percent": 1.2774379406193415,
+        "faster": 18,
+        "slower": 10,
+        "tied": 4,
+        "worst_regression_percent": 12.5004451736614,
+        "target_met_on_this_phase": false
+      }
+    }
+  },
+  "scope_note": "Synthetic evaluator-owned cases, not official scores. These published historical holdouts are already consumed and must not be reused as fresh holdouts."
+}

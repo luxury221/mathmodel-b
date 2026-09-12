@@ -1,0 +1,27 @@
+objective: "Q3 <180 and Q4 <300 case-equal virtual seconds per source; no official simulator calls"
+status: active
+date: 2026-09-11
+iteration: joint_search_v4
+iteration_source_frozen: true
+selected:
+  q3: adaptive
+  q4: sweep_previous
+validation_directory: 'D:\数模B题\B题\reports\joint_search_v4\validation_20260911_184912'
+validation_status: complete_for_this_iteration
+local_results:
+  q3_mean_seconds_per_source: 251.04744620003746
+  q4_mean_seconds_per_source: 529.3904370251254
+  paired_validation_runs_passed: 128
+  paired_validation_runs_total: 128
+  local_http_runs_passed_after_exact_clock_audit: 6
+  tests_passed: 75
+report: 'D:\数模B题\B题\reports\20260911_问题3与4联合优化v4阶段报告.md'
+goal_achieved: false
+official_calls_this_iteration: 0
+next_version: joint_search_v5
+constraints:
+  - Keep every generated file and cache on drive D.
+  - Do not modify frozen baseline or v4 Python files.
+  - Do not access official simulator, hidden cases, or encrypted internal state.
+  - Keep failures and paired comparisons; no success-only means.
+  - New hypotheses require new development evidence and newly frozen holdout seeds.

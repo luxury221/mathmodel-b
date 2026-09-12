@@ -1,0 +1,19 @@
+{
+  "nonorigin_lower": 17,
+  "with_forced_origin_lower": 18,
+  "disjoint_cut_indices": [
+    8
+  ],
+  "prefix_bounds": [
+    0,
+    0,
+    0,
+    0,
+    2,
+    4,
+    4,
+    6,
+    6,
+    17
+  ]
+}

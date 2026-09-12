@@ -1,0 +1,11 @@
+experiment_date: 2026-09-11
+updated_local_date: 2026-09-12
+goal_status: active_not_achieved
+phase_status: development_complete_not_selected
+storage: D_drive_only
+official_calls: 0
+directory: reports/empirical_point_v14/dev1_20260911_233714
+runs: 30
+successes: 30
+means: {previous: 240.77023029548218, station_only: 232.35885842412043, empirical_route: 234.18440931600568, empirical_trial: 237.21675451415237, empirical_point: 231.32766630802715}
+decision: insufficient_incremental_gain_over_same_scan_baseline_no_promotion

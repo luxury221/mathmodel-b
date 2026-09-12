@@ -1,0 +1,72 @@
+{
+  "status": "passed",
+  "certificates": [
+    {
+      "problem": "q3",
+      "active_rows": 6,
+      "continuous_cell_checks": 2312,
+      "direct_high_precision_point_checks": 1434,
+      "maximum_independent_budget_ratio": 0.9999999690736201,
+      "maximum_original_budget_ratio": 0.9999999690736207,
+      "exact_budget_numerator": 253002808809677044526188639577885276992844055862029634860032369333380466982815187731587627800398626525026843827955488286507926527215240226983422779339857957934890536527884240406178241644006601597943776678790680293954750460031109137932151992724685867623272504031389321924530181852625242815962973219957776292148964078556115024573147,
+      "exact_budget_denominator": 253002816634138272940619183398646633811945812205177647946126697534287924459994183614950479626796405618983847330396014889237260921732241846083766749925923137401896780345707951705583634677616520426549709598090931335702509354280865873272629194561449445426012570640448461940416768269038128165232909385807507829134634676366868480000000,
+      "dual_value": 29.144373,
+      "integer_absent_channel_seconds_lower": 30,
+      "known_feasible_query_cost_upper": 35,
+      "minimum_known_network_integrated_coverage": 1.0,
+      "maximum_coefficient_difference": 5.551115123125783e-16
+    },
+    {
+      "problem": "q4",
+      "active_rows": 7,
+      "continuous_cell_checks": 2312,
+      "direct_high_precision_point_checks": 1673,
+      "maximum_independent_budget_ratio": 0.9999999940728709,
+      "maximum_original_budget_ratio": 0.9999999940728714,
+      "exact_budget_numerator": 253002815134557913647095445585096425556215864739602759065367343618397042633593317131718404674956639454480431436847542779513749328093302120386494699459818850102130228161879360874365235450335565724745270507663595380826344590550588211805106369456832267107584633018840360893784087927066685540902465742974698971970644220730960631671811,
+      "exact_budget_denominator": 253002816634138272940619183398646633811945812205177647946126697534287924459994183614950479626796405618983847330396014889237260921732241846083766749925923137401896780345707951705583634677616520426549709598090931335702509354280865873272629194561449445426012570640448461940416768269038128165232909385807507829134634676366868480000000,
+      "dual_value": 93.023593,
+      "integer_absent_channel_seconds_lower": 94,
+      "known_feasible_query_cost_upper": 108,
+      "minimum_known_network_integrated_coverage": 1.0484282955418305,
+      "maximum_coefficient_difference": 1.5543122344752192e-15
+    }
+  ],
+  "official_count_diagnostic": {
+    "q3": {
+      "source_counts": [
+        11,
+        12,
+        12,
+        11,
+        15
+      ],
+      "batch_count_conditioned_lower_mean": 83.24799718385665,
+      "observed_official_mean": 253.4305224390909,
+      "target": 180,
+      "bound_excludes_target_for_this_count_mix": false
+    },
+    "q4": {
+      "source_counts": [
+        10,
+        12,
+        11,
+        11,
+        14
+      ],
+      "batch_count_conditioned_lower_mean": 274.00920270942896,
+      "observed_official_mean": 571.5379450378355,
+      "target": 300,
+      "bound_excludes_target_for_this_count_mix": false
+    }
+  },
+  "source_hashes": {
+    "research\\radial_dual_audit_v43\\verify_bound.py": "28ddcd54b9b217243c12b6d91e614077fac8140f8fd477d9fbd90ea274eccd6a"
+  },
+  "producer_protocol_sha256": "15b74b614593ef5dfbe7b243b677a6478b542d960d6b43911596761932ff26c1",
+  "new_policy_runs": 0,
+  "new_holdout": false,
+  "official_calls": 0,
+  "formal_calls": 0,
+  "scope": "necessary guarantee-search bounds, not achieved performance or a complete mission optimizer"
+}

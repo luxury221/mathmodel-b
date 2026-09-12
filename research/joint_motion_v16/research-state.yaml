@@ -1,0 +1,20 @@
+status: rejected_after_development_expansion
+objective_status: active_not_achieved
+problem: q4
+metric: case_equal_total_virtual_seconds_per_source
+official_calls: 0
+development_directories:
+  - reports/joint_motion_v16/dev1_20260912_001949
+  - reports/joint_motion_v16/dev_expand_20260912_002331
+transit_18_cases:
+  previous_mean: 446.1337321046458
+  candidate_mean: 447.1854885536663
+  faster: 7
+  slower: 7
+  tied: 4
+  worst_regression_percent: 11.824809232800714
+all_main_runs: 48
+all_main_successes: 48
+independent_validation_started: false
+retained_q4_candidate: shaped_probe_v11_shaped_cost
+lesson: local_information_gain_and_zero_current_segment_detour_do_not_guarantee_lower_complete_mission_cost

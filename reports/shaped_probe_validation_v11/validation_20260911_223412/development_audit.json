@@ -1,0 +1,37 @@
+{
+  "development": [
+    {
+      "folder": "D:\\数模B题\\B题\\reports\\network_synthesis_v8\\omni_dev1_20260911_213554",
+      "runs": 90,
+      "actions": 12991,
+      "max_clock_error": 0.0
+    },
+    {
+      "folder": "D:\\数模B题\\B题\\reports\\evidence_prior_v9\\dev1_20260911_214408",
+      "runs": 48,
+      "actions": 10726,
+      "max_clock_error": 0.0
+    },
+    {
+      "folder": "D:\\数模B题\\B题\\reports\\joint_cover_v10\\dev1_20260911_221429",
+      "runs": 24,
+      "actions": 5359,
+      "max_clock_error": 0.0
+    },
+    {
+      "folder": "D:\\数模B题\\B题\\reports\\shaped_probe_v11\\dev1_20260911_222424",
+      "runs": 24,
+      "actions": 7168,
+      "max_clock_error": 0.0
+    },
+    {
+      "folder": "D:\\数模B题\\B题\\reports\\shaped_probe_v11\\dev_expand_20260911_222814",
+      "runs": 48,
+      "actions": 13571,
+      "max_clock_error": 0.0
+    }
+  ],
+  "frozen_baseline_check": true,
+  "original_candidate_validation": "D:\\数模B题\\B题\\reports\\candidate_interface_v1\\run_20260911_160004",
+  "official_calls": 0
+}

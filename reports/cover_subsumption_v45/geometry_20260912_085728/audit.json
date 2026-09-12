@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "iterations": [
+    {
+      "iteration": 0,
+      "status": "UNKNOWN",
+      "original_groups": 12144,
+      "retained_groups": 3244,
+      "returned_candidate": false
+    }
+  ],
+  "source_files_checked": 85,
+  "original_groups_independently_rebuilt": 12144,
+  "deletion_implications_checked": 8900,
+  "known_21_point_reference_passed": true,
+  "continuous_candidates": 0,
+  "new_holdout": false,
+  "official_calls": 0,
+  "formal_calls": 0,
+  "policy_runs": 0,
+  "conclusion": "Subsumption preserves feasible assignments; solver status is not a complete-mission score"
+}

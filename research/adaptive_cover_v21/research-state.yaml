@@ -1,0 +1,14 @@
+status: rejected_at_development_gate
+objective_status: active_not_achieved
+problem: q3
+official_calls: 0
+development: reports/adaptive_cover_v21/dev1_20260912_014138
+cases_per_mode: 6
+means:
+  previous: 232.35885842412043
+  source_first: 260.752695427054
+  source_repack: 256.66082952244824
+main_runs: 18
+successes: 18
+independent_validation_started: false
+lesson: Repacking must be isolated from early pursuit of poorly localized sources.

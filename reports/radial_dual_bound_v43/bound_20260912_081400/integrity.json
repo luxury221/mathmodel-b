@@ -1,0 +1,13 @@
+{
+  "unchanged": true,
+  "frozen_manifests": {
+    "reports/scan_validation_v13/validation_20260911_235435/selection.json": 59,
+    "reports/frozen_practice_v33/batch_20260912_040922/protocol.json": 63,
+    "reports/paired_scan_commitment_v38/dev1_20260912_060916/protocol.json": 65,
+    "reports/coverage_probe_v39/dev1_20260912_064358/protocol.json": 73,
+    "reports/feasible_segment_bound_v40/bound_20260912_070654/protocol.json": 76,
+    "reports/q3_action_scheduler_v41/dev1_20260912_071723/protocol.json": 65,
+    "reports/q4_action_phase_v42/dev1_20260912_074048/protocol.json": 71,
+    "reports/q4_action_phase_v42/dev2_20260912_074431/protocol.json": 71
+  }
+}

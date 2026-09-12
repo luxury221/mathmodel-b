@@ -1,0 +1,28 @@
+{
+  "created_local": "2026-09-12T08:14:01.764433",
+  "source_hashes": {
+    "research\\radial_dual_bound_v43\\radial_geometry.py": "abff1bf57c1bf5e3db940c44bb1e81439f0577fd9aa29106f4ba37837cbe5621",
+    "research\\radial_dual_bound_v43\\run_bound.py": "f521fd01f51bd45d117f6fc696590cd8a0c7c05a62b12197fc5f3481ac79f22e",
+    "research\\radial_dual_bound_v43\\test_bound.py": "beda7042c83bb5be5d13101b0b9c6a59c9a30b62bf421a621b772266deb9d627",
+    "research\\radial_dual_bound_v43\\PROTOCOL.md": "99c48293fa052c432d06067f06c27d5cfda382e2e8a8313a398bed452a6a0164"
+  },
+  "frozen_manifests": {
+    "reports/scan_validation_v13/validation_20260911_235435/selection.json": 59,
+    "reports/frozen_practice_v33/batch_20260912_040922/protocol.json": 63,
+    "reports/paired_scan_commitment_v38/dev1_20260912_060916/protocol.json": 65,
+    "reports/coverage_probe_v39/dev1_20260912_064358/protocol.json": 73,
+    "reports/feasible_segment_bound_v40/bound_20260912_070654/protocol.json": 76,
+    "reports/q3_action_scheduler_v41/dev1_20260912_071723/protocol.json": 65,
+    "reports/q4_action_phase_v42/dev1_20260912_074048/protocol.json": 71,
+    "reports/q4_action_phase_v42/dev2_20260912_074431/protocol.json": 71
+  },
+  "practice_calls": 0,
+  "formal_calls": 0,
+  "policy_runs": 0,
+  "new_holdout": false,
+  "libraries": {
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "mpmath": "1.3.0"
+  }
+}

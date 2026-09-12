@@ -1,0 +1,329 @@
+{
+  "problem": "q3",
+  "rows": [
+    {
+      "radius": "20.1",
+      "kind": "range"
+    },
+    {
+      "radius": "50",
+      "kind": "range"
+    },
+    {
+      "radius": "100",
+      "kind": "range"
+    },
+    {
+      "radius": "200",
+      "kind": "range"
+    },
+    {
+      "radius": "400",
+      "kind": "range"
+    },
+    {
+      "radius": "600",
+      "kind": "range"
+    },
+    {
+      "radius": "800",
+      "kind": "range"
+    },
+    {
+      "radius": "1000",
+      "kind": "range"
+    },
+    {
+      "radius": "1200",
+      "kind": "range"
+    },
+    {
+      "radius": "1400",
+      "kind": "range"
+    },
+    {
+      "radius": "1600",
+      "kind": "range"
+    },
+    {
+      "radius": "1800",
+      "kind": "range"
+    }
+  ],
+  "active_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    11
+  ],
+  "active_rows": [
+    {
+      "radius": "20.1",
+      "kind": "range"
+    },
+    {
+      "radius": "50",
+      "kind": "range"
+    },
+    {
+      "radius": "100",
+      "kind": "range"
+    },
+    {
+      "radius": "200",
+      "kind": "range"
+    },
+    {
+      "radius": "400",
+      "kind": "range"
+    },
+    {
+      "radius": "1800",
+      "kind": "range"
+    }
+  ],
+  "weight_numerators": [
+    87447,
+    244903,
+    239133,
+    1445643,
+    459782,
+    26667465
+  ],
+  "weight_denominator": 1000000,
+  "proposed_dual_value": 29.144376507870692,
+  "weights_scale": 1.0,
+  "verified_dual_value": 29.144373,
+  "rational_lower_numerator": 29144373,
+  "rational_lower_denominator": 1000000,
+  "integer_absent_channel_seconds_lower": 30,
+  "maximum_budget_ratio": 0.9999999690736207,
+  "exact_budget_numerator": 253002808809677194338434747956289302975580461126527972021671296676185303426318913387700484036140558018579162534101818894629729261108579808178988473606944700004315752718628935711555617623083423904342859133296033957108149423267620553228214058154276664645969016176433637560437257269223611358299939182457394077342579165508000379663067,
+  "exact_budget_denominator": 253002816634138272940619183398646633811945812205177647946126697534287924459994183614950479626796405618983847330396014889237260921732241846083766749925923137401896780345707951705583634677616520426549709598090931335702509354280865873272629194561449445426012570640448461940416768269038128165232909385807507829134634676366868480000000,
+  "coefficients_file": "q3_upper_coefficients.npy",
+  "coefficients_sha256": "a28d9a3415213b33f205a3ceee6d0800b4a8e0f3e678222725e3cebe0f235cb0",
+  "binding_cells": [
+    {
+      "column": 749,
+      "budget_ratio": 0.9999999690736207,
+      "kind": "radio",
+      "lower": 1496,
+      "upper": 1498,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 686,
+      "budget_ratio": 0.9999999533506755,
+      "kind": "radio",
+      "lower": 1370,
+      "upper": 1372,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 571,
+      "budget_ratio": 0.9999999188514368,
+      "kind": "radio",
+      "lower": 1140,
+      "upper": 1142,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 505,
+      "budget_ratio": 0.9999997404580075,
+      "kind": "radio",
+      "lower": 1008,
+      "upper": 1010,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 504,
+      "budget_ratio": 0.9999997358299244,
+      "kind": "radio",
+      "lower": 1006,
+      "upper": 1008,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 748,
+      "budget_ratio": 0.9999997196899371,
+      "kind": "radio",
+      "lower": 1494,
+      "upper": 1496,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 491,
+      "budget_ratio": 0.999999670571305,
+      "kind": "radio",
+      "lower": 980,
+      "upper": 982,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 750,
+      "budget_ratio": 0.9999989560665451,
+      "kind": "radio",
+      "lower": 1498,
+      "upper": 1500,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 747,
+      "budget_ratio": 0.9999959399592514,
+      "kind": "radio",
+      "lower": 1492,
+      "upper": 1494,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 751,
+      "budget_ratio": 0.9999936672533871,
+      "kind": "radio",
+      "lower": 1500,
+      "upper": 1502,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 685,
+      "budget_ratio": 0.9999935996933093,
+      "kind": "radio",
+      "lower": 1368,
+      "upper": 1370,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 687,
+      "budget_ratio": 0.9999898840227904,
+      "kind": "radio",
+      "lower": 1372,
+      "upper": 1374,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 570,
+      "budget_ratio": 0.9999885138574357,
+      "kind": "radio",
+      "lower": 1138,
+      "upper": 1140,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 746,
+      "budget_ratio": 0.9999875985580409,
+      "kind": "radio",
+      "lower": 1490,
+      "upper": 1492,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 752,
+      "budget_ratio": 0.9999838712640127,
+      "kind": "radio",
+      "lower": 1502,
+      "upper": 1504,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 572,
+      "budget_ratio": 0.9999824974712455,
+      "kind": "radio",
+      "lower": 1142,
+      "upper": 1144,
+      "origin": false,
+      "seconds": 5
+    }
+  ],
+  "movement_lower": {
+    "meters": 3518.5837720205677,
+    "seconds": 703.7167544041135
+  },
+  "by_source_count": [
+    {
+      "source_count": 10,
+      "absence_bound_applicable": true,
+      "total_lower_seconds": 1053.7167544041133,
+      "seconds_per_source_lower": 105.37167544041132,
+      "movement_lower_seconds": 703.7167544041135,
+      "absent_channel_operation_lower_seconds": 300,
+      "successful_clear_lower_seconds": 50,
+      "switch_lower_seconds": 0
+    },
+    {
+      "source_count": 11,
+      "absence_bound_applicable": true,
+      "total_lower_seconds": 1028.7167544041133,
+      "seconds_per_source_lower": 93.51970494582847,
+      "movement_lower_seconds": 703.7167544041135,
+      "absent_channel_operation_lower_seconds": 270,
+      "successful_clear_lower_seconds": 55,
+      "switch_lower_seconds": 0
+    },
+    {
+      "source_count": 12,
+      "absence_bound_applicable": true,
+      "total_lower_seconds": 1003.7167544041133,
+      "seconds_per_source_lower": 83.64306286700943,
+      "movement_lower_seconds": 703.7167544041135,
+      "absent_channel_operation_lower_seconds": 240,
+      "successful_clear_lower_seconds": 60,
+      "switch_lower_seconds": 0
+    },
+    {
+      "source_count": 13,
+      "absence_bound_applicable": true,
+      "total_lower_seconds": 978.7167544041133,
+      "seconds_per_source_lower": 75.28590418493178,
+      "movement_lower_seconds": 703.7167544041135,
+      "absent_channel_operation_lower_seconds": 210,
+      "successful_clear_lower_seconds": 65,
+      "switch_lower_seconds": 0
+    },
+    {
+      "source_count": 14,
+      "absence_bound_applicable": true,
+      "total_lower_seconds": 953.7167544041133,
+      "seconds_per_source_lower": 68.12262531457951,
+      "movement_lower_seconds": 703.7167544041135,
+      "absent_channel_operation_lower_seconds": 180,
+      "successful_clear_lower_seconds": 70,
+      "switch_lower_seconds": 0
+    },
+    {
+      "source_count": 15,
+      "absence_bound_applicable": true,
+      "total_lower_seconds": 928.7167544041133,
+      "seconds_per_source_lower": 61.914450293607544,
+      "movement_lower_seconds": 703.7167544041135,
+      "absent_channel_operation_lower_seconds": 150,
+      "successful_clear_lower_seconds": 75,
+      "switch_lower_seconds": 0
+    },
+    {
+      "source_count": 16,
+      "absence_bound_applicable": false,
+      "total_lower_seconds": 80,
+      "seconds_per_source_lower": 5,
+      "scope": "only successful optical clearance; absence and inspection not applicable"
+    }
+  ],
+  "solver_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+  "optimality_scope": "only finite radial-envelope LP, not the search algorithm",
+  "wall_seconds": 0.6663186000077985
+}

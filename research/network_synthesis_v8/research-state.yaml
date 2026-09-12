@@ -1,0 +1,22 @@
+date: 2026-09-11
+goal_status: active_not_achieved
+phase_status: development_complete_no_promotion
+storage: D_drive_only
+official_calls: 0
+results:
+  continuous_synthesis: {proposals: 60, new_complete_networks: 0}
+  covering_tour: {iterations: 8, new_complete_networks: 0, solver_status: FEASIBLE_not_optimal}
+  retained_geometry: {receivers: 21, route_meters: 17945.77572601804}
+  q3_development_runs: 90
+  q3_successes: 90
+  q3_case_equal_means:
+    previous: 239.07337345375322
+    omni_ring7: 258.24995172279046
+    omni_ring8: 257.9241703385706
+    omni_ring7_prescan: 259.6655494890247
+    omni_ring8_prescan: 261.97460699375966
+artifacts:
+  - reports/network_synthesis_v8/synthesis1_20260911_212542
+  - reports/network_synthesis_v8/covering_tour1_20260911_213554
+  - reports/network_synthesis_v8/omni_dev1_20260911_213554
+decision: reject_as_overall_improvement_do_not_claim_global_impossibility

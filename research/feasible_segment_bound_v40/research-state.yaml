@@ -1,0 +1,16 @@
+status: diagnostic_complete_no_policy_promoted
+objective_status: active_not_achieved
+batch: reports/feasible_segment_bound_v40/bound_20260912_070654
+independent_audit: reports/stage_audit_v40_v41/analysis.json
+profiles: [max_radius, random]
+new_policy_runs: 0
+independent_coverage_checks: 26
+physical_replays: 2
+physical_actions: 46
+reused_correctness_seed: 401739251
+new_holdout: false
+official_calls: 0
+formal_calls: 0
+scope: fixed_other_scan_points_and_actions_single_visit_two_adjacent_edges_only
+not_claimed: adaptive_complete_mission_gain_or_universal_algorithm_bound
+decision: do_not_extend_these_two_single_station_segments_as_main_optimization

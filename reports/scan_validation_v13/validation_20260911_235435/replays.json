@@ -1,0 +1,10 @@
+[
+  {
+    "scene_id": "scanv13_holdout_q3_random_10_0",
+    "passed": true
+  },
+  {
+    "scene_id": "scanv13_holdout_q3_near_origin_16_0",
+    "passed": true
+  }
+]

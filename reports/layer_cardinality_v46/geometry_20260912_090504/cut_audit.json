@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "source_files_checked": 90,
+  "interval_certificates": 45,
+  "exact_point_budgets_checked": 11880,
+  "positive_cardinality_cuts": 17,
+  "global_integer_lower": 18,
+  "known_21_point_reference_satisfies_all_cuts": true,
+  "solver_status": "UNKNOWN",
+  "pool_19_20_ruled_out_by_integer_certificate": false,
+  "continuous_plane_infeasibility_claimed": false,
+  "policy_runs": 0,
+  "new_holdout": false,
+  "official_calls": 0,
+  "formal_calls": 0
+}

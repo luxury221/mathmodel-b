@@ -1,0 +1,19 @@
+date: 2026-09-11
+goal_status: active_not_achieved
+phase_status: validation_complete
+storage: D_drive_only
+official_calls: 0
+selected: shaped_cost
+directory: reports/shaped_probe_validation_v11/validation_20260911_223412
+protocol: research/shaped_probe_validation_v11/PROTOCOL.md
+source_files_frozen: 54
+old_source_files_unchanged: 46
+seeds: {new: 32, prior: 864, overlap: 0}
+holdout: {scenes: 24, previous_mean: 465.4208840265293, candidate_mean: 459.14433531392245, improvement_percent: 1.3485747906939793}
+stress: {scenes: 8, previous_mean: 473.4136778859966, candidate_mean: 468.3593692180575, improvement_percent: 1.0676304686651261}
+combined: {scenes: 32, previous_mean: 467.4190824913961, candidate_mean: 461.4480937899562, improvement_percent: 1.2774379406193415}
+verification: {paired_runs_passed: 64, audited_actions: 17908, clock_error: 0, replays_passed: 2, local_http_passed: 3, faults_recovered: 5, regression_tests_passed: 53}
+acceptance_gate_passed: true
+interpretation: small_observed_gain_with_regressions_and_uncertain_generalization
+no_post_holdout_tuning: true
+report: reports/20260911_第四问继续优化_v11阶段报告.md

@@ -1,0 +1,16 @@
+status: rejected_at_development_gate
+objective_status: active_not_achieved
+problem: q4
+official_calls: 0
+development_directory: reports/patrol_commit_v18/dev1_20260912_003336
+cases_per_mode: 6
+previous_mean: 450.4566597955908
+candidate_mean: 457.7573745479992
+improvement_percent: -1.6207363335956293
+faster: 1
+slower: 4
+tied: 1
+all_main_runs: 12
+all_main_successes: 12
+independent_validation_started: false
+lesson: committing_the_entire_patrol_order_can_sacrifice_adaptation_to_new_observations

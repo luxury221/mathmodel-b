@@ -1,0 +1,15 @@
+status: completed_negative_geometry_search
+goal_status: active_not_achieved
+geometry: reports/nonuniform_repair_v37/repair_20260912_053044
+audit: reports/layout_stage_v35_v37/audit_20260912_053447/analysis.json
+starts: 3
+iterations: 45
+complete_layouts: 0
+eligible_layouts: 0
+best_remaining_area_square_meters: 9280.218959215223
+new_tests_passed: 3
+performance_runs: 0
+new_holdout_used: false
+official_calls: 0
+not_a_global_infeasibility_proof: true
+decision: reject_do_not_ignore_nonempty_remainder

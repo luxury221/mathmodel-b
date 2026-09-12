@@ -1,0 +1,32 @@
+{
+  "status": "passed",
+  "date": "2026-09-12",
+  "archive_tests": {
+    "passed": 11,
+    "failed": 0,
+    "command": "python -m pytest tests -q"
+  },
+  "smoke_reproductions": [
+    {
+      "problem": "q3",
+      "scene_id": "scanv13_holdout_q3_random_10_0",
+      "mode": "station_only",
+      "success": true,
+      "trace_sha256": "2a388ba67860b5d5084e22033515acf5fac85f4928281d000623a004a85aeebf",
+      "matches_archived_candidate_exactly": true,
+      "scope": "One historical case only; execution smoke check, not a new independent validation or official result"
+    },
+    {
+      "problem": "q4",
+      "scene_id": "shapedv11_holdout_q4_random_10_0",
+      "mode": "shaped_cost",
+      "success": true,
+      "trace_sha256": "0e0c808684ee600467f805ac8c54b4cb7999199a8c15e2a4f0b8b2715e5755b8",
+      "matches_archived_candidate_exactly": true,
+      "scope": "One historical case only; execution smoke check, not a new independent validation or official result"
+    }
+  ],
+  "official_calls_in_this_publication_check": 0,
+  "formal_calls_in_this_publication_check": 0,
+  "v48_tested": false
+}

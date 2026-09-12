@@ -1,0 +1,29 @@
+experiment_date: 2026-09-11
+updated_local_date: 2026-09-12
+goal_status: active_not_achieved
+phase_status: frozen_candidate_independently_validated
+storage: D_drive_only
+official_calls: 0
+selected: station_only
+development: {scenes: 18, runs: 54, successes: 54, previous_mean: 239.07337345375322, station_only_mean: 230.94651866026103, certified_reuse_mean: 230.93352917432355}
+validation_directory: reports/scan_validation_v13/validation_20260911_235435
+frozen_manifest: reports/scan_validation_v13/validation_20260911_235435/selection.json
+validation:
+  scenes: 32
+  paired_runs: 64
+  successes: 64
+  previous_mean: 239.47963172096632
+  candidate_mean: 228.37315043076808
+  improvement_percent: 4.637756125806614
+  faster: 24
+  slower: 2
+  tied: 6
+  worst_regression_percent: 3.8498790554193807
+  movement_seconds_per_source: 175.31969060933952
+  radio_seconds_per_source: 47.980133928571426
+  optical_seconds_per_source: 5.0733258928571425
+  exploratory_saved_seconds_interval: [6.152326815759239, 17.33513981322974]
+verification: {audited_actions: 8035, max_clock_error: 0, replays_passed: 2, local_http_passed: 3, faults_recovered: 5, regression_tests_passed: 75, frozen_files: 59}
+target_seconds_per_source: 180
+target_achieved: false
+decision: retain_as_next_frozen_offline_candidate_without_changing_actual_client

@@ -1,0 +1,11 @@
+experiment_date: 2026-09-11
+updated_local_date: 2026-09-12
+goal_status: active_not_achieved
+phase_status: development_complete_not_selected
+storage: D_drive_only
+official_calls: 0
+directory: reports/frontier_radius_v15/dev1_20260911_234700
+runs: 30
+successes: 30
+means: {previous: 240.77023029548218, station_only: 232.35885842412043, pilot1700: 243.3124039820537, pilot1725: 242.7016216093353, pilot1725_station_only: 232.13865615715872}
+decision: keep_radius1600_no_evidence_that_larger_radius_is_a_material_improvement

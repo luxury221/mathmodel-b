@@ -1,0 +1,17 @@
+experiment_date: 2026-09-11
+updated_local_date: 2026-09-12
+goal_status: active_not_achieved
+phase_status: independent_validation_complete
+storage: D_drive_only
+official_calls: 0
+selected: station_only
+directory: reports/scan_validation_v13/validation_20260911_235435
+frozen_files: 59
+holdout: {scenes: 24, previous_mean: 241.8951390878918, candidate_mean: 229.8149628498783, improvement_percent: 4.9939722987257795}
+stress: {scenes: 8, previous_mean: 232.23310962018988, candidate_mean: 224.04771317343744, improvement_percent: 3.5246466191403147}
+combined: {scenes: 32, previous_mean: 239.47963172096632, candidate_mean: 228.37315043076808, improvement_percent: 4.637756125806614}
+verification: {successes: 64, actions_audited: 8035, max_clock_error: 0, replays_passed: 2, local_http_passed: 3, faults_recovered: 5, regression_tests_passed: 75}
+acceptance_gate_passed: true
+no_post_holdout_tuning: true
+q3_target_met: false
+q4_changed: false

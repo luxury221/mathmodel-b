@@ -1,0 +1,19 @@
+status: frozen_candidate_validated_targets_not_met
+selected: pilot1600
+problem: q3
+development_mean: 239.07337345375322
+development_v4_mean: 244.59039198644217
+paired_holdout_and_stress:
+  scenes: 32
+  previous_mean: 243.14801840245772
+  candidate_mean: 241.0974978965068
+  improvement_percent: 0.8433219071343201
+  faster: 5
+  slower: 3
+  tied: 24
+  worst_regression_percent: 14.051723572341078
+target_mean_below: 180
+target_achieved: false
+official_calls: 0
+validation_directory: 'D:\数模B题\B题\reports\joint_search_validation_v7\validation_20260911_205854'
+decision: retain_as_experimental_candidate_with_v4_stable_control_not_a_breakthrough

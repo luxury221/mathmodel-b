@@ -1,0 +1,77 @@
+[
+  {
+    "scene_id": "shapedv11_holdout_q4_boundary_16_0",
+    "recovery": false,
+    "passed": true,
+    "checks": {
+      "normal_exit": true,
+      "all_cleared": true,
+      "same_actions": true,
+      "authority_exact": true,
+      "same_position": true,
+      "same_receiver": true,
+      "single_execution": true,
+      "retry_identity": true,
+      "faults_consumed": true,
+      "retries": true,
+      "no_uncertainty": true
+    },
+    "clock": {
+      "actions": 363,
+      "per_action_error": 0.0,
+      "unrounded_seconds": 6680.117749686466,
+      "rounded_seconds": 6680.117751,
+      "aggregate_rounding_difference": 1.3135340850567445e-06
+    }
+  },
+  {
+    "scene_id": "shapedv11_holdout_q4_boundary_16_0",
+    "recovery": true,
+    "passed": true,
+    "checks": {
+      "normal_exit": true,
+      "all_cleared": true,
+      "same_actions": true,
+      "authority_exact": true,
+      "same_position": true,
+      "same_receiver": true,
+      "single_execution": true,
+      "retry_identity": true,
+      "faults_consumed": true,
+      "retries": true,
+      "no_uncertainty": true
+    },
+    "clock": {
+      "actions": 363,
+      "per_action_error": 0.0,
+      "unrounded_seconds": 6680.117749686466,
+      "rounded_seconds": 6680.117751,
+      "aggregate_rounding_difference": 1.3135340850567445e-06
+    }
+  },
+  {
+    "scene_id": "shapedv11_holdout_q4_clustered_16_0",
+    "recovery": false,
+    "passed": true,
+    "checks": {
+      "normal_exit": true,
+      "all_cleared": true,
+      "same_actions": true,
+      "authority_exact": true,
+      "same_position": true,
+      "same_receiver": true,
+      "single_execution": true,
+      "retry_identity": true,
+      "faults_consumed": true,
+      "retries": true,
+      "no_uncertainty": true
+    },
+    "clock": {
+      "actions": 146,
+      "per_action_error": 0.0,
+      "unrounded_seconds": 1743.2455011423187,
+      "rounded_seconds": 1743.2455,
+      "aggregate_rounding_difference": 1.14231875159021e-06
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "iterations": 1,
+  "returned_candidates": 0,
+  "continuous_complete": 0,
+  "eligible_count": 0,
+  "eligible": null,
+  "statuses": [
+    "UNKNOWN"
+  ],
+  "source_hashes_unchanged": true,
+  "new_holdout": false,
+  "official_calls": 0,
+  "formal_calls": 0,
+  "policy_runs": 0,
+  "scope": "restricted radial point pool and time-capped candidate search, not global infeasibility"
+}

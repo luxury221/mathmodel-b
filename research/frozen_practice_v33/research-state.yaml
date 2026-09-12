@@ -1,0 +1,11 @@
+stage: completed_official_practice_baseline_not_goal_complete
+batch: reports/frozen_practice_v33/batch_20260912_040922
+audit: reports/frozen_practice_v33/audit_20260912_044703/final_verification.json
+official_practices: 10
+formal_tests: 0
+q3: {runs: 5, all_cleared: 5, mean_seconds_per_source: 253.4305224390909, target: 180, target_met: false}
+q4: {runs: 5, all_cleared: 5, mean_seconds_per_source: 571.5379450378355, target: 300, target_met: false}
+actions: 2268
+exact_replays: 10
+frozen_source_files_verified: 63
+decision: retain_baseline_and_continue_structural_development

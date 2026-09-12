@@ -1,0 +1,17 @@
+{
+  "status": "UNKNOWN",
+  "wall_seconds": 30.036153699998977,
+  "point_pool_size": 649,
+  "witness_groups": 3244,
+  "minimum_spacing_constraints": 432,
+  "objective_bound": 19.0,
+  "branches": 4871288,
+  "conflicts": 831968,
+  "iteration": 0,
+  "source_witness_count": 13392,
+  "original_groups": 12144,
+  "retained_groups": 3244,
+  "fixed_satisfied_groups": 2100,
+  "subsumed_groups": 6800,
+  "reduction_seconds": 0.5831096999900183
+}

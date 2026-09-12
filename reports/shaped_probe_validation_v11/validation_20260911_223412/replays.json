@@ -1,0 +1,10 @@
+[
+  {
+    "scene_id": "shapedv11_holdout_q4_random_10_0",
+    "passed": true
+  },
+  {
+    "scene_id": "shapedv11_holdout_q4_near_origin_16_0",
+    "passed": true
+  }
+]

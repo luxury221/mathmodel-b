@@ -1,0 +1,12 @@
+date: 2026-09-11
+goal_status: active_not_achieved
+phase_status: development_complete_rejected
+storage: D_drive_only
+official_calls: 0
+directory: reports/evidence_prior_v9/dev1_20260911_214408
+runs: 48
+successes: 48
+source_integrity: unchanged
+q3_case_equal_means: {previous: 240.77023029548218, center: 254.4803950774367, prior_route: 255.06542628212605, prior_trial: 252.31559045780608}
+q4_case_equal_means: {previous: 469.1899214409882, center: 478.88338822632437, prior_route: 478.14075130127316, prior_trial: 487.8151061849841}
+decision: no_promotion_of_spatial_prior_or_optical_trial

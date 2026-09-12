@@ -1,0 +1,22 @@
+status: completed_negative_development_result
+goal_status: active_not_achieved
+baseline: frozen_q4_v11_shaped_cost
+development: reports/q4_observation_gate_v34/dev1_20260912_045850
+audit: reports/q4_observation_gate_v34/audit_20260912_050207/analysis.json
+runs: 24
+successes: 24
+identity_exact_cases: 6
+actions_audited: 7134
+max_clock_error: 0
+new_tests_passed: 7
+regression_tests_passed: 13
+means:
+  previous: 450.4566597955908
+  identity: 450.4566597955908
+  two_bearings: 510.38747791874573
+  clear_ready: 505.8802502303415
+expansion: rejected_for_both_candidates
+new_holdout_used: false
+official_calls: 0
+formal_tests: 0
+decision: keep_frozen_baseline_do_not_repeat_admission_threshold_tuning

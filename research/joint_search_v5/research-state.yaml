@@ -1,0 +1,29 @@
+objective:
+  q3_mean_seconds_per_source_below: 180
+  q4_mean_seconds_per_source_below: 300
+  metric: case_equal_total_virtual_seconds_per_source
+  official_tests_allowed: false
+  status: active_not_achieved
+storage: D_drive_only
+frozen_previous: research/joint_search_v4
+current_version: joint_search_v5_certified_fixed_frozen_for_v7_validation
+best_independently_validated:
+  q3: {version: v4_adaptive, mean: 251.047446}
+  q4: {version: v4_sweep_previous, mean: 529.390437}
+development_18_cases_per_problem:
+  q3: {v4_previous: 244.590392, certified_fixed: 267.917540, certified_center: 251.872208}
+  q4: {v4_previous: 507.594258, certified_fixed: 460.355473, certified_center: 475.772840}
+regression:
+  coverage_tests_passed_before_v_probe_test: 8
+  old_failures_replayed_and_passed: 4
+  report: reports/joint_search_v5/regression_20260911_201237
+next_hypothesis: redesign_search_network_topology_not_fixed_cell_coordinate_tuning
+v5_holdout_status: completed_with_targets_not_met
+new_paired_validation:
+  directory: 'D:\数模B题\B题\reports\joint_search_validation_v7\validation_20260911_205854'
+  q4_previous_mean: 513.6826745066586
+  q4_candidate_mean: 467.92076731519984
+  q4_improvement_percent: 8.908594636836554
+  q4_faster_slower: [24, 8]
+  official_calls: 0
+freeze_manifest: 'reports/joint_search_validation_v7/validation_20260911_205854/selection.json'

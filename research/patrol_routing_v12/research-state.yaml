@@ -1,0 +1,16 @@
+experiment_date: 2026-09-11
+updated_local_date: 2026-09-12
+goal_status: active_not_achieved
+phase_status: development_complete_not_selected
+storage: D_drive_only
+official_calls: 0
+geometry_checks: 38
+new_complete_layouts: 3
+selected_public_geometry: {inner_points: 7, inner_radius: 1011.5, outer_points: 13, outer_radius: 1860, outer_phase: 15, actual_origin_radio_required: true}
+development_runs: 54
+development_successes: 54
+q3_13_source_means: {previous: 240.77023029548218, multistart: 242.6311107940608, guided: 239.9458473234921}
+q4_13_source_means: {previous_v5: 469.1899214409882, previous_v11: 450.4566597955908, multistart: 463.83480062165086, guided: 464.50120441374605, layout: 473.76161260314905, layout_guided: 457.0205183653097}
+solver_time_fallbacks: 0
+decision: retain_geometry_evidence_but_do_not_promote_routes_or_layout
+next_direction: full_mission_movement_cost_not_only_shorter_current_waypoint_tours

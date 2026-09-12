@@ -1,0 +1,12 @@
+{
+  "status": "UNKNOWN",
+  "wall_seconds": 30.016875100001926,
+  "point_pool_size": 649,
+  "witness_groups": 12144,
+  "minimum_spacing_constraints": 432,
+  "objective_bound": 19.0,
+  "branches": 3690250,
+  "conflicts": 831757,
+  "iteration": 0,
+  "source_witness_count": 13392
+}

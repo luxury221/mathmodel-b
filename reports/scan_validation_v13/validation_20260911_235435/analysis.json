@@ -1,0 +1,85 @@
+{
+  "previous": {
+    "movement": 174.13383559001394,
+    "radio": 60.2893787202381,
+    "optical": 5.056417410714285,
+    "mean_wall_seconds": 0.19733921874899352,
+    "means_by_count": {
+      "10": 295.49735403161554,
+      "12": 267.82316881292877,
+      "14": 232.4226469193238,
+      "16": 170.68997803612513
+    }
+  },
+  "station_only": {
+    "movement": 175.31969060933952,
+    "radio": 47.980133928571426,
+    "optical": 5.0733258928571425,
+    "mean_wall_seconds": 0.17167165937485152,
+    "means_by_count": {
+      "10": 284.0700662115538,
+      "12": 241.8829011141569,
+      "14": 222.38164012718738,
+      "16": 168.1652904220975
+    }
+  },
+  "exploratory_paired_bootstrap": {
+    "mean_saved_seconds_per_source": 11.106481290198232,
+    "percentile_95_interval": [
+      6.152326815759239,
+      17.33513981322974
+    ],
+    "draws": 20000,
+    "seed": 268511123,
+    "not_used_for_selection": true,
+    "caveat": "Conditional synthetic-case resampling, not an official-distribution guarantee"
+  },
+  "development_means": {
+    "previous": 239.07337345375322,
+    "station_only": 230.94651866026103,
+    "certified_reuse": 230.93352917432355
+  },
+  "archive_audit": {
+    "files": 59,
+    "changed": [],
+    "archive_mismatch": []
+  },
+  "development_audit": [
+    {
+      "directory": "patrol_routing_v12/q3_dev1_20260911_231612",
+      "runs": 18,
+      "actions": 2751,
+      "max_clock_error": 0.0
+    },
+    {
+      "directory": "patrol_routing_v12/q4_dev1_20260911_231634",
+      "runs": 36,
+      "actions": 11145,
+      "max_clock_error": 0.0
+    },
+    {
+      "directory": "q3_scan_economy_v13/dev1_20260911_232743",
+      "runs": 18,
+      "actions": 2307,
+      "max_clock_error": 0.0
+    },
+    {
+      "directory": "q3_scan_economy_v13/dev_expand_20260911_233256",
+      "runs": 36,
+      "actions": 4380,
+      "max_clock_error": 0.0
+    },
+    {
+      "directory": "empirical_point_v14/dev1_20260911_233714",
+      "runs": 30,
+      "actions": 3687,
+      "max_clock_error": 0.0
+    },
+    {
+      "directory": "frontier_radius_v15/dev1_20260911_234700",
+      "runs": 30,
+      "actions": 4099,
+      "max_clock_error": 0.0
+    }
+  ]
+}

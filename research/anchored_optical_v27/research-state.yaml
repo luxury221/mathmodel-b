@@ -1,0 +1,10 @@
+status: rejected_geometric_precondition
+evidence: reports/anchored_optical_v27/geometry_rejected_20260912_024350
+registered_layouts: 6
+complete_radio_layouts: 0
+initial_test_fixture_errors: 4
+initial_test_bodies_executed: 0
+performance_runs: 0
+identity_replays_passed: 0
+test_revision: reject_infeasible_registered_layouts_without_relaxing_certificates
+official_calls: 0

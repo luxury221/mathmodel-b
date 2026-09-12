@@ -1,0 +1,13 @@
+status: completed_diagnostic
+report_directory: reports/patrol_cost_bound_v24/diagnostic_20260912_021849
+tests_passed: 6
+cases: 12
+counts: [10, 13]
+new_performance_runs: 0
+public_station_path_lower_bound_meters: 17875.38346862896
+combined_conditional_travel_and_clear_mean: 322.2688629922218
+combined_stricter_full_absent_scan_mean: 403.03809376145256
+universal_algorithm_lower_bound: false
+objective_impossibility_proved: false
+source_truth_tables_read: false
+official_calls: 0

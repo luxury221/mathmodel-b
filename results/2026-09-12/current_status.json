@@ -1,0 +1,51 @@
+{
+  "as_of_local": "2026-09-12T10:10:04.790189",
+  "timezone": "Asia/Shanghai",
+  "goals": {
+    "q3_seconds_per_source_below": 180,
+    "q4_seconds_per_source_below": 300
+  },
+  "official_targets_met": false,
+  "official_results": {
+    "q3": {
+      "runs": 5,
+      "all_cleared": 5,
+      "mean_seconds_per_source": 253.4305224390909,
+      "target": 180,
+      "gap": 73.43052243909091,
+      "target_met": false
+    },
+    "q4": {
+      "runs": 5,
+      "all_cleared": 5,
+      "mean_seconds_per_source": 571.5379450378355,
+      "target": 300,
+      "gap": 271.53794503783547,
+      "target_met": false
+    }
+  },
+  "retained_algorithms": {
+    "q3": {
+      "algorithm": "research/q3_scan_economy_v13/scan_policy.py",
+      "class": "ScanEconomyPolicy",
+      "mode": "station_only"
+    },
+    "q4": {
+      "algorithm": "research/shaped_probe_v11/shaped_policy.py",
+      "class": "ShapedProbePolicy",
+      "mode": "shaped_cost"
+    }
+  },
+  "q3_effective_target_radius": 2000,
+  "latest_completed_stage": "v47",
+  "latest_unfinished_stage": "v48",
+  "v48_status": "partial_code_and_protocol_only_no_unit_tests_no_main_runs_no_scores",
+  "official_calls_in_v45_v47": 0,
+  "new_policy_runs_in_v45_v47": 0,
+  "v45_v47_tests": {
+    "new": 27,
+    "regression": 20,
+    "total_passed": 47
+  },
+  "metric": "Case-equal mean of complete mission virtual seconds divided by actual source count; includes final discovery confirmation actions"
+}

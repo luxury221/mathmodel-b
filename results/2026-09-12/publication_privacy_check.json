@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "scanned_files": 1264,
+  "bytes": 48158515,
+  "largest_file_bytes": 9233347,
+  "checks": [
+    "actual team and ten official case identifiers",
+    "GitHub token forms",
+    "private keys",
+    "literal bearer values",
+    "excluded files",
+    "file size",
+    "UTF-8",
+    "staged bytes and archive inclusion"
+  ],
+  "issues": [],
+  "scope": "Automated pattern scan plus whitelist-based official data export; not a claim that every possible secret format is detectable",
+  "self_report_note": "File totals describe the staged snapshot before this report is refreshed; only this non-sensitive report is rewritten afterward"
+}

@@ -1,0 +1,938 @@
+{
+  "problem": "q4",
+  "rows": [
+    {
+      "radius": "20.1",
+      "kind": "triple_range"
+    },
+    {
+      "radius": "20.1",
+      "kind": "oriented",
+      "cosine": "1"
+    },
+    {
+      "radius": "20.1",
+      "kind": "oriented",
+      "cosine": "3/4"
+    },
+    {
+      "radius": "20.1",
+      "kind": "oriented",
+      "cosine": "1/2"
+    },
+    {
+      "radius": "20.1",
+      "kind": "oriented",
+      "cosine": "1/4"
+    },
+    {
+      "radius": "20.1",
+      "kind": "oriented",
+      "cosine": "1/20"
+    },
+    {
+      "radius": "20.1",
+      "kind": "oriented",
+      "cosine": "0"
+    },
+    {
+      "radius": "20.1",
+      "kind": "oriented",
+      "cosine": "-1/4"
+    },
+    {
+      "radius": "20.1",
+      "kind": "oriented",
+      "cosine": "-1/2"
+    },
+    {
+      "radius": "20.1",
+      "kind": "oriented",
+      "cosine": "-3/4"
+    },
+    {
+      "radius": "20.1",
+      "kind": "oriented",
+      "cosine": "-1"
+    },
+    {
+      "radius": "50",
+      "kind": "triple_range"
+    },
+    {
+      "radius": "50",
+      "kind": "oriented",
+      "cosine": "1"
+    },
+    {
+      "radius": "50",
+      "kind": "oriented",
+      "cosine": "3/4"
+    },
+    {
+      "radius": "50",
+      "kind": "oriented",
+      "cosine": "1/2"
+    },
+    {
+      "radius": "50",
+      "kind": "oriented",
+      "cosine": "1/4"
+    },
+    {
+      "radius": "50",
+      "kind": "oriented",
+      "cosine": "1/20"
+    },
+    {
+      "radius": "50",
+      "kind": "oriented",
+      "cosine": "0"
+    },
+    {
+      "radius": "50",
+      "kind": "oriented",
+      "cosine": "-1/4"
+    },
+    {
+      "radius": "50",
+      "kind": "oriented",
+      "cosine": "-1/2"
+    },
+    {
+      "radius": "50",
+      "kind": "oriented",
+      "cosine": "-3/4"
+    },
+    {
+      "radius": "50",
+      "kind": "oriented",
+      "cosine": "-1"
+    },
+    {
+      "radius": "100",
+      "kind": "triple_range"
+    },
+    {
+      "radius": "100",
+      "kind": "oriented",
+      "cosine": "1"
+    },
+    {
+      "radius": "100",
+      "kind": "oriented",
+      "cosine": "3/4"
+    },
+    {
+      "radius": "100",
+      "kind": "oriented",
+      "cosine": "1/2"
+    },
+    {
+      "radius": "100",
+      "kind": "oriented",
+      "cosine": "1/4"
+    },
+    {
+      "radius": "100",
+      "kind": "oriented",
+      "cosine": "1/20"
+    },
+    {
+      "radius": "100",
+      "kind": "oriented",
+      "cosine": "0"
+    },
+    {
+      "radius": "100",
+      "kind": "oriented",
+      "cosine": "-1/4"
+    },
+    {
+      "radius": "100",
+      "kind": "oriented",
+      "cosine": "-1/2"
+    },
+    {
+      "radius": "100",
+      "kind": "oriented",
+      "cosine": "-3/4"
+    },
+    {
+      "radius": "100",
+      "kind": "oriented",
+      "cosine": "-1"
+    },
+    {
+      "radius": "200",
+      "kind": "triple_range"
+    },
+    {
+      "radius": "200",
+      "kind": "oriented",
+      "cosine": "1"
+    },
+    {
+      "radius": "200",
+      "kind": "oriented",
+      "cosine": "3/4"
+    },
+    {
+      "radius": "200",
+      "kind": "oriented",
+      "cosine": "1/2"
+    },
+    {
+      "radius": "200",
+      "kind": "oriented",
+      "cosine": "1/4"
+    },
+    {
+      "radius": "200",
+      "kind": "oriented",
+      "cosine": "1/20"
+    },
+    {
+      "radius": "200",
+      "kind": "oriented",
+      "cosine": "0"
+    },
+    {
+      "radius": "200",
+      "kind": "oriented",
+      "cosine": "-1/4"
+    },
+    {
+      "radius": "200",
+      "kind": "oriented",
+      "cosine": "-1/2"
+    },
+    {
+      "radius": "200",
+      "kind": "oriented",
+      "cosine": "-3/4"
+    },
+    {
+      "radius": "200",
+      "kind": "oriented",
+      "cosine": "-1"
+    },
+    {
+      "radius": "400",
+      "kind": "triple_range"
+    },
+    {
+      "radius": "400",
+      "kind": "oriented",
+      "cosine": "1"
+    },
+    {
+      "radius": "400",
+      "kind": "oriented",
+      "cosine": "3/4"
+    },
+    {
+      "radius": "400",
+      "kind": "oriented",
+      "cosine": "1/2"
+    },
+    {
+      "radius": "400",
+      "kind": "oriented",
+      "cosine": "1/4"
+    },
+    {
+      "radius": "400",
+      "kind": "oriented",
+      "cosine": "1/20"
+    },
+    {
+      "radius": "400",
+      "kind": "oriented",
+      "cosine": "0"
+    },
+    {
+      "radius": "400",
+      "kind": "oriented",
+      "cosine": "-1/4"
+    },
+    {
+      "radius": "400",
+      "kind": "oriented",
+      "cosine": "-1/2"
+    },
+    {
+      "radius": "400",
+      "kind": "oriented",
+      "cosine": "-3/4"
+    },
+    {
+      "radius": "400",
+      "kind": "oriented",
+      "cosine": "-1"
+    },
+    {
+      "radius": "600",
+      "kind": "triple_range"
+    },
+    {
+      "radius": "600",
+      "kind": "oriented",
+      "cosine": "1"
+    },
+    {
+      "radius": "600",
+      "kind": "oriented",
+      "cosine": "3/4"
+    },
+    {
+      "radius": "600",
+      "kind": "oriented",
+      "cosine": "1/2"
+    },
+    {
+      "radius": "600",
+      "kind": "oriented",
+      "cosine": "1/4"
+    },
+    {
+      "radius": "600",
+      "kind": "oriented",
+      "cosine": "1/20"
+    },
+    {
+      "radius": "600",
+      "kind": "oriented",
+      "cosine": "0"
+    },
+    {
+      "radius": "600",
+      "kind": "oriented",
+      "cosine": "-1/4"
+    },
+    {
+      "radius": "600",
+      "kind": "oriented",
+      "cosine": "-1/2"
+    },
+    {
+      "radius": "600",
+      "kind": "oriented",
+      "cosine": "-3/4"
+    },
+    {
+      "radius": "600",
+      "kind": "oriented",
+      "cosine": "-1"
+    },
+    {
+      "radius": "800",
+      "kind": "triple_range"
+    },
+    {
+      "radius": "800",
+      "kind": "oriented",
+      "cosine": "1"
+    },
+    {
+      "radius": "800",
+      "kind": "oriented",
+      "cosine": "3/4"
+    },
+    {
+      "radius": "800",
+      "kind": "oriented",
+      "cosine": "1/2"
+    },
+    {
+      "radius": "800",
+      "kind": "oriented",
+      "cosine": "1/4"
+    },
+    {
+      "radius": "800",
+      "kind": "oriented",
+      "cosine": "1/20"
+    },
+    {
+      "radius": "800",
+      "kind": "oriented",
+      "cosine": "0"
+    },
+    {
+      "radius": "800",
+      "kind": "oriented",
+      "cosine": "-1/4"
+    },
+    {
+      "radius": "800",
+      "kind": "oriented",
+      "cosine": "-1/2"
+    },
+    {
+      "radius": "800",
+      "kind": "oriented",
+      "cosine": "-3/4"
+    },
+    {
+      "radius": "800",
+      "kind": "oriented",
+      "cosine": "-1"
+    },
+    {
+      "radius": "1000",
+      "kind": "triple_range"
+    },
+    {
+      "radius": "1000",
+      "kind": "oriented",
+      "cosine": "1"
+    },
+    {
+      "radius": "1000",
+      "kind": "oriented",
+      "cosine": "3/4"
+    },
+    {
+      "radius": "1000",
+      "kind": "oriented",
+      "cosine": "1/2"
+    },
+    {
+      "radius": "1000",
+      "kind": "oriented",
+      "cosine": "1/4"
+    },
+    {
+      "radius": "1000",
+      "kind": "oriented",
+      "cosine": "1/20"
+    },
+    {
+      "radius": "1000",
+      "kind": "oriented",
+      "cosine": "0"
+    },
+    {
+      "radius": "1000",
+      "kind": "oriented",
+      "cosine": "-1/4"
+    },
+    {
+      "radius": "1000",
+      "kind": "oriented",
+      "cosine": "-1/2"
+    },
+    {
+      "radius": "1000",
+      "kind": "oriented",
+      "cosine": "-3/4"
+    },
+    {
+      "radius": "1000",
+      "kind": "oriented",
+      "cosine": "-1"
+    },
+    {
+      "radius": "1200",
+      "kind": "triple_range"
+    },
+    {
+      "radius": "1200",
+      "kind": "oriented",
+      "cosine": "1"
+    },
+    {
+      "radius": "1200",
+      "kind": "oriented",
+      "cosine": "3/4"
+    },
+    {
+      "radius": "1200",
+      "kind": "oriented",
+      "cosine": "1/2"
+    },
+    {
+      "radius": "1200",
+      "kind": "oriented",
+      "cosine": "1/4"
+    },
+    {
+      "radius": "1200",
+      "kind": "oriented",
+      "cosine": "1/20"
+    },
+    {
+      "radius": "1200",
+      "kind": "oriented",
+      "cosine": "0"
+    },
+    {
+      "radius": "1200",
+      "kind": "oriented",
+      "cosine": "-1/4"
+    },
+    {
+      "radius": "1200",
+      "kind": "oriented",
+      "cosine": "-1/2"
+    },
+    {
+      "radius": "1200",
+      "kind": "oriented",
+      "cosine": "-3/4"
+    },
+    {
+      "radius": "1200",
+      "kind": "oriented",
+      "cosine": "-1"
+    },
+    {
+      "radius": "1400",
+      "kind": "triple_range"
+    },
+    {
+      "radius": "1400",
+      "kind": "oriented",
+      "cosine": "1"
+    },
+    {
+      "radius": "1400",
+      "kind": "oriented",
+      "cosine": "3/4"
+    },
+    {
+      "radius": "1400",
+      "kind": "oriented",
+      "cosine": "1/2"
+    },
+    {
+      "radius": "1400",
+      "kind": "oriented",
+      "cosine": "1/4"
+    },
+    {
+      "radius": "1400",
+      "kind": "oriented",
+      "cosine": "1/20"
+    },
+    {
+      "radius": "1400",
+      "kind": "oriented",
+      "cosine": "0"
+    },
+    {
+      "radius": "1400",
+      "kind": "oriented",
+      "cosine": "-1/4"
+    },
+    {
+      "radius": "1400",
+      "kind": "oriented",
+      "cosine": "-1/2"
+    },
+    {
+      "radius": "1400",
+      "kind": "oriented",
+      "cosine": "-3/4"
+    },
+    {
+      "radius": "1400",
+      "kind": "oriented",
+      "cosine": "-1"
+    },
+    {
+      "radius": "1600",
+      "kind": "triple_range"
+    },
+    {
+      "radius": "1600",
+      "kind": "oriented",
+      "cosine": "1"
+    },
+    {
+      "radius": "1600",
+      "kind": "oriented",
+      "cosine": "3/4"
+    },
+    {
+      "radius": "1600",
+      "kind": "oriented",
+      "cosine": "1/2"
+    },
+    {
+      "radius": "1600",
+      "kind": "oriented",
+      "cosine": "1/4"
+    },
+    {
+      "radius": "1600",
+      "kind": "oriented",
+      "cosine": "1/20"
+    },
+    {
+      "radius": "1600",
+      "kind": "oriented",
+      "cosine": "0"
+    },
+    {
+      "radius": "1600",
+      "kind": "oriented",
+      "cosine": "-1/4"
+    },
+    {
+      "radius": "1600",
+      "kind": "oriented",
+      "cosine": "-1/2"
+    },
+    {
+      "radius": "1600",
+      "kind": "oriented",
+      "cosine": "-3/4"
+    },
+    {
+      "radius": "1600",
+      "kind": "oriented",
+      "cosine": "-1"
+    },
+    {
+      "radius": "1800",
+      "kind": "triple_range"
+    },
+    {
+      "radius": "1800",
+      "kind": "oriented",
+      "cosine": "1"
+    },
+    {
+      "radius": "1800",
+      "kind": "oriented",
+      "cosine": "3/4"
+    },
+    {
+      "radius": "1800",
+      "kind": "oriented",
+      "cosine": "1/2"
+    },
+    {
+      "radius": "1800",
+      "kind": "oriented",
+      "cosine": "1/4"
+    },
+    {
+      "radius": "1800",
+      "kind": "oriented",
+      "cosine": "1/20"
+    },
+    {
+      "radius": "1800",
+      "kind": "oriented",
+      "cosine": "0"
+    },
+    {
+      "radius": "1800",
+      "kind": "oriented",
+      "cosine": "-1/4"
+    },
+    {
+      "radius": "1800",
+      "kind": "oriented",
+      "cosine": "-1/2"
+    },
+    {
+      "radius": "1800",
+      "kind": "oriented",
+      "cosine": "-3/4"
+    },
+    {
+      "radius": "1800",
+      "kind": "oriented",
+      "cosine": "-1"
+    }
+  ],
+  "active_indices": [
+    22,
+    33,
+    43,
+    44,
+    54,
+    121,
+    122
+  ],
+  "active_rows": [
+    {
+      "radius": "100",
+      "kind": "triple_range"
+    },
+    {
+      "radius": "200",
+      "kind": "triple_range"
+    },
+    {
+      "radius": "200",
+      "kind": "oriented",
+      "cosine": "-1"
+    },
+    {
+      "radius": "400",
+      "kind": "triple_range"
+    },
+    {
+      "radius": "400",
+      "kind": "oriented",
+      "cosine": "-1"
+    },
+    {
+      "radius": "1800",
+      "kind": "triple_range"
+    },
+    {
+      "radius": "1800",
+      "kind": "oriented",
+      "cosine": "1"
+    }
+  ],
+  "weight_numerators": [
+    1061622,
+    4205734,
+    2492307,
+    1379348,
+    292123,
+    80002397,
+    3590062
+  ],
+  "weight_denominator": 1000000,
+  "proposed_dual_value": 93.02359659991374,
+  "weights_scale": 1.0,
+  "verified_dual_value": 93.023593,
+  "rational_lower_numerator": 93023593,
+  "rational_lower_denominator": 1000000,
+  "integer_absent_channel_seconds_lower": 94,
+  "maximum_budget_ratio": 0.9999999940728714,
+  "exact_budget_numerator": 63250703783639513524019920827313556968947132118567677492084171403390893372975732903899204840572256605092978984076857749203962973335631053977213577768221206841718607941770547488037069677472135260250928271622237819452106671652806393478521793981897035136129100130064914333605704454947366093870217575616331644387184295075416530900667,
+  "exact_budget_denominator": 63250704158534568235154795849661658452986453051294411986531674383571981114998545903737619906699101404745961832599003722309315230433060461520941687481480784350474195086426987926395908669404130106637427399522732833925627338570216468318157298640362361356503142660112115485104192067259532041308227346451876957283658669091717120000000,
+  "coefficients_file": "q4_upper_coefficients.npy",
+  "coefficients_sha256": "a5a0399288ae0eb62a07a1168c3691c40883a97f7de9344e71bd29e591f220a7",
+  "binding_cells": [
+    {
+      "column": 749,
+      "budget_ratio": 0.9999999940728714,
+      "kind": "radio",
+      "lower": 1496,
+      "upper": 1498,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 686,
+      "budget_ratio": 0.99999999210967,
+      "kind": "radio",
+      "lower": 1370,
+      "upper": 1372,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 952,
+      "budget_ratio": 0.9999999879503566,
+      "kind": "radio",
+      "lower": 1902,
+      "upper": 1904,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 541,
+      "budget_ratio": 0.9999999747437087,
+      "kind": "radio",
+      "lower": 1080,
+      "upper": 1082,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 479,
+      "budget_ratio": 0.9999999142402785,
+      "kind": "radio",
+      "lower": 956,
+      "upper": 958,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 478,
+      "budget_ratio": 0.9999999130069892,
+      "kind": "radio",
+      "lower": 954,
+      "upper": 956,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 748,
+      "budget_ratio": 0.9999997446891817,
+      "kind": "radio",
+      "lower": 1494,
+      "upper": 1496,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 1,
+      "budget_ratio": 0.9999996000000003,
+      "kind": "radio",
+      "lower": 0,
+      "upper": 2,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 2,
+      "budget_ratio": 0.9999996000000003,
+      "kind": "radio",
+      "lower": 2,
+      "upper": 4,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 3,
+      "budget_ratio": 0.9999996000000003,
+      "kind": "radio",
+      "lower": 4,
+      "upper": 6,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 4,
+      "budget_ratio": 0.9999996000000003,
+      "kind": "radio",
+      "lower": 6,
+      "upper": 8,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 5,
+      "budget_ratio": 0.9999996000000003,
+      "kind": "radio",
+      "lower": 8,
+      "upper": 10,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 6,
+      "budget_ratio": 0.9999996000000003,
+      "kind": "radio",
+      "lower": 10,
+      "upper": 12,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 7,
+      "budget_ratio": 0.9999996000000003,
+      "kind": "radio",
+      "lower": 12,
+      "upper": 14,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 8,
+      "budget_ratio": 0.9999996000000003,
+      "kind": "radio",
+      "lower": 14,
+      "upper": 16,
+      "origin": false,
+      "seconds": 5
+    },
+    {
+      "column": 9,
+      "budget_ratio": 0.9999996000000003,
+      "kind": "radio",
+      "lower": 16,
+      "upper": 18,
+      "origin": false,
+      "seconds": 5
+    }
+  ],
+  "movement_lower": {
+    "meters": 11387.091181427402,
+    "seconds": 2277.4182362854804
+  },
+  "by_source_count": [
+    {
+      "source_count": 10,
+      "absence_bound_applicable": true,
+      "total_lower_seconds": 3267.4182362854795,
+      "seconds_per_source_lower": 326.7418236285479,
+      "movement_lower_seconds": 2277.4182362854804,
+      "absent_channel_operation_lower_seconds": 940,
+      "successful_clear_lower_seconds": 50,
+      "switch_lower_seconds": 0
+    },
+    {
+      "source_count": 11,
+      "absence_bound_applicable": true,
+      "total_lower_seconds": 3178.4182362854795,
+      "seconds_per_source_lower": 288.947112389589,
+      "movement_lower_seconds": 2277.4182362854804,
+      "absent_channel_operation_lower_seconds": 846,
+      "successful_clear_lower_seconds": 55,
+      "switch_lower_seconds": 0
+    },
+    {
+      "source_count": 12,
+      "absence_bound_applicable": true,
+      "total_lower_seconds": 3089.4182362854795,
+      "seconds_per_source_lower": 257.45151969045656,
+      "movement_lower_seconds": 2277.4182362854804,
+      "absent_channel_operation_lower_seconds": 752,
+      "successful_clear_lower_seconds": 60,
+      "switch_lower_seconds": 0
+    },
+    {
+      "source_count": 13,
+      "absence_bound_applicable": true,
+      "total_lower_seconds": 3000.4182362854795,
+      "seconds_per_source_lower": 230.8014027911907,
+      "movement_lower_seconds": 2277.4182362854804,
+      "absent_channel_operation_lower_seconds": 658,
+      "successful_clear_lower_seconds": 65,
+      "switch_lower_seconds": 0
+    },
+    {
+      "source_count": 14,
+      "absence_bound_applicable": true,
+      "total_lower_seconds": 2911.4182362854795,
+      "seconds_per_source_lower": 207.95844544896278,
+      "movement_lower_seconds": 2277.4182362854804,
+      "absent_channel_operation_lower_seconds": 564,
+      "successful_clear_lower_seconds": 70,
+      "switch_lower_seconds": 0
+    },
+    {
+      "source_count": 15,
+      "absence_bound_applicable": true,
+      "total_lower_seconds": 2822.4182362854795,
+      "seconds_per_source_lower": 188.16121575236528,
+      "movement_lower_seconds": 2277.4182362854804,
+      "absent_channel_operation_lower_seconds": 470,
+      "successful_clear_lower_seconds": 75,
+      "switch_lower_seconds": 0
+    },
+    {
+      "source_count": 16,
+      "absence_bound_applicable": false,
+      "total_lower_seconds": 80,
+      "seconds_per_source_lower": 5,
+      "scope": "only successful optical clearance; absence and inspection not applicable"
+    }
+  ],
+  "solver_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+  "optimality_scope": "only finite radial-envelope LP, not the search algorithm",
+  "wall_seconds": 4.860285399990971
+}

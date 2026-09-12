@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "exact_copied_files": 1242,
+  "official_numeric_export": {
+    "cases": 10,
+    "rounding_residuals_verified": 10,
+    "maximum_absolute_rounding_residual_seconds": 2.2247922970564105e-06,
+    "scope": "anonymized official numeric table only; raw responses are not published"
+  },
+  "offline_validation": {
+    "runs": 128,
+    "cases_per_problem": 32,
+    "archived_actions": 25943,
+    "synthetic_physics_replays": 128,
+    "official_calls": 0
+  },
+  "official_calls_in_this_verification": 0,
+  "formal_calls_in_this_verification": 0,
+  "v48_tested_by_this_verification": false
+}

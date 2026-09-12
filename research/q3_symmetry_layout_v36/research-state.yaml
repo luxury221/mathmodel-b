@@ -1,0 +1,17 @@
+status: completed_negative_development_result
+goal_status: active_not_achieved
+development: reports/q3_symmetry_layout_v36/dev1_20260912_052506
+audit: reports/layout_stage_v35_v37/audit_20260912_053447/analysis.json
+runs: 18
+successes: 18
+identity_exact_cases: 6
+previous_mean: 232.35885842412043
+joint_phase_mean: 238.31945295320878
+saved_seconds_per_source: -5.960594529088358
+worst_regression_percent: 11.883853278575396
+actions_audited: 2096
+max_clock_error: 0
+new_tests_passed: 5
+new_holdout_used: false
+official_calls: 0
+decision: reject_keep_q3_v13

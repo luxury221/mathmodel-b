@@ -1,0 +1,11 @@
+status: completed_negative
+development: reports/selective_optical_v26/dev1_20260912_023432
+tests_passed: 5
+runs: 24
+successes: 24
+previous_mean: 450.4566597955908
+network_only_mean: 466.91737854663575
+sentinel_mean: 463.72507085432807
+radio_first_mean: 464.37768886791315
+decision: reject_net_regression_no_expansion_no_new_holdout
+official_calls: 0

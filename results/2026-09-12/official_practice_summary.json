@@ -1,0 +1,53 @@
+{
+  "evidence_type": "official_practice",
+  "original_batch_date": "2026-09-12",
+  "runs": 10,
+  "formal_tests_in_this_batch": 0,
+  "recorded_action_audit_passed": true,
+  "audited_actions": 2268,
+  "recorded_action_replays": 10,
+  "summaries": {
+    "q3": {
+      "runs": 5,
+      "successes": 5,
+      "mean_seconds_per_source": 253.4305224390909,
+      "median": 268.165861,
+      "min": 193.99074173333332,
+      "max": 274.21032654545456,
+      "target": 180,
+      "gap": 73.43052243909091,
+      "target_met_in_this_batch": false,
+      "movement": 192.3832497250692,
+      "radio": 55.99727272727273,
+      "retries": 0
+    },
+    "q4": {
+      "runs": 5,
+      "successes": 5,
+      "mean_seconds_per_source": 571.5379450378355,
+      "median": 600.3098893636363,
+      "min": 431.8810174285714,
+      "max": 666.9268712,
+      "target": 300,
+      "gap": 271.53794503783547,
+      "target_met_in_this_batch": false,
+      "movement": 408.0424904573375,
+      "radio": 151.36142857142858,
+      "retries": 0
+    }
+  },
+  "raw_official_responses_included": false,
+  "anonymized_case_ids": true,
+  "rounding_note": "Preserves the recorded audit residual: virtual_seconds minus the sum of cost components. No mission times or scores are adjusted.",
+  "source_provenance": [
+    {
+      "local_archive_relative_path": "reports/frozen_practice_v33/batch_20260912_040922/runs.json",
+      "sha256": "b431412b027b0bf46b9c1fc79095c68bfbb7d2adb38767e4b9c5999596eb87f0"
+    },
+    {
+      "local_archive_relative_path": "reports/frozen_practice_v33/audit_20260912_044703/final_verification.json",
+      "sha256": "3c944d1d66f073e414b83fa9929c5e063662a8809a15e04b00f62a900b8ee62d"
+    }
+  ],
+  "scope_note": "Numeric export from completed official PRACTICE records; replays are not new official calls. Raw login/session/case codes/screenshots are not published."
+}

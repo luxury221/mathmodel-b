@@ -1,0 +1,43 @@
+{
+  "previous": {
+    "movement": 338.29858397949135,
+    "radio": 117.78271949404763,
+    "optical": 11.337779017857143,
+    "wall_seconds_mean": 5.837731721874661,
+    "means_by_count": {
+      "10": 614.9272739526066,
+      "12": 502.3809734160067,
+      "14": 451.1753870588251,
+      "16": 308.67997373496195
+    }
+  },
+  "shaped_cost": {
+    "movement": 333.30657593281336,
+    "radio": 116.38716517857142,
+    "optical": 11.75435267857143,
+    "wall_seconds_mean": 5.900674128125047,
+    "means_by_count": {
+      "10": 605.2803387793174,
+      "12": 494.0998596025187,
+      "14": 441.37811533511365,
+      "16": 310.0667763859631
+    }
+  },
+  "exploratory_paired_bootstrap": {
+    "metric": "baseline_minus_candidate_virtual_seconds_per_source",
+    "case_resampling_draws": 20000,
+    "seed": 242511123,
+    "observed": 5.970988701439902,
+    "percentile_95_interval": [
+      -0.23242126926610313,
+      12.146121537752325
+    ],
+    "not_a_selection_gate": true,
+    "caveat": "Descriptive conditional synthetic-case resampling, not official-score or population guarantee"
+  },
+  "archive_audit": {
+    "files": 54,
+    "changed": [],
+    "archive_mismatch": []
+  }
+}

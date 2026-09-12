@@ -1,0 +1,17 @@
+status: completed_insufficient_gain
+development: reports/radial_optical_v28/dev1_20260912_025127
+inner_radius: 999.0
+outer_radius: 1869.0
+angles_and_index_order_preserved: true
+tests_passed: 4
+runs: 24
+successes: 24
+previous_mean: 450.4566597955908
+network_only_mean: 453.40852933966084
+sentinel_mean: 450.21622164735317
+radio_first_mean: 450.8700678011993
+best_saving_seconds_per_source: 0.2404381482376247
+best_improvement_percent: 0.053376533126792136
+sentinel_worst_regression_percent: 12.996298396515682
+decision: no_expansion_no_new_holdout_keep_v11
+official_calls: 0

@@ -1,0 +1,13 @@
+status: completed_negative
+question: q3
+experiment: reports/gated_repack_v23/dev1_20260912_020758
+runs: 24
+successes: 24
+tests_passed: 5
+identity_passed: true
+source_integrity_passed: true
+previous_mean: 232.35885842412043
+repack_mean: 232.55605094977528
+repack_scan_mean: 234.90635278833295
+decision: reject_no_expansion_no_new_holdout
+official_calls: 0

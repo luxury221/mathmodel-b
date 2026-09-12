@@ -1,0 +1,18 @@
+status: rejected_at_development_gate
+objective_status: active_not_achieved
+problem: q3
+official_calls: 0
+development: reports/local_rollout_v20/dev1_20260912_012724
+cases_per_mode: 6
+means:
+  previous: 232.35885842412043
+  rollout: 231.81842179149942
+  cost_clear: 231.68619465394403
+  clear_first: 232.26921738239983
+main_runs: 24
+successes: 24
+independent_validation_started: false
+best_mode_saved_seconds_per_source: 0.6726637701763996
+best_mode_mean_wall_seconds: 23.5864
+previous_mean_wall_seconds: 0.4464
+lesson: Local rollout adds substantial computation for subsecond mission benefit and omits other-channel opportunity fees.

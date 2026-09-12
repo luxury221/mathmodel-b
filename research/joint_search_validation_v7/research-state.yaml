@@ -1,0 +1,35 @@
+date: 2026-09-11
+objective: 'Q3<180 and Q4<300 case-equal total virtual seconds per source; no real tests'
+goal_status: active_not_achieved
+phase_status: independent_validation_complete
+storage: D_drive_only
+validation_directory: 'D:\数模B题\B题\reports\joint_search_validation_v7\validation_20260911_205854'
+report: 'D:\数模B题\B题\reports\20260911_问题3与4继续优化_独立验证阶段报告.md'
+frozen:
+  q3_candidate: radial_patrol_v7_pilot1600
+  q4_candidate: joint_search_v5_certified_fixed
+  baseline: joint_search_v4_unchanged
+  manifest: reports/joint_search_validation_v7/validation_20260911_205854/selection.json
+results_on_same_new_cases:
+  q3: {previous: 243.14801840245772, candidate: 241.0974978965068, improvement_percent: 0.8433219071343201}
+  q4: {previous: 513.6826745066586, candidate: 467.92076731519984, improvement_percent: 8.908594636836554}
+verification:
+  fresh_scenes: 64
+  prior_seeds: 800
+  seed_overlap: 0
+  paired_runs_passed: 128
+  paired_runs_total: 128
+  physical_actions_audited: 28670
+  max_clock_error: 0.0
+  deterministic_replays_passed: 4
+  local_http_passed: 6
+  injected_faults_recovered: 10
+  tests_passed: 57
+  source_hashes_unchanged: true
+  official_calls: 0
+decisions:
+  - Retain Q4 certified_fixed as the next offline optimization baseline.
+  - Keep the Q3 pilot1600 candidate and v4 stable control; improvement is small and some cases regress.
+  - Reject deferred localization and fixed-cell continuous-coordinate optimization as overall improvements.
+  - Never retune on these holdout or stress scenes; use new validation seeds after new development.
+next_direction: search_network_topology_and_joint_visit_order_for_substantial_movement_reduction

@@ -1,0 +1,9 @@
+status: completed_rejected
+main_runs: 48
+successes: 48
+regression_tests_passed: 6
+identity_passed: true
+output: reports/range_opportunity_v31/dev1_20260912_035304
+expanded: false
+new_holdout_used: false
+official_calls_in_this_experiment: 0

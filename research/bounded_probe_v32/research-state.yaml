@@ -1,0 +1,9 @@
+status: completed_rejected
+main_runs: 24
+successes: 24
+regression_tests_passed: 4
+identity_passed: true
+output: reports/bounded_probe_v32/dev1_20260912_035736
+expanded: false
+new_holdout_used: false
+official_calls_in_this_experiment: 0

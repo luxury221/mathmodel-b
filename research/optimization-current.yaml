@@ -1,0 +1,437 @@
+updated_local_date: 2026-09-12
+objective: 'Q3<180 and Q4<300 in official PRACTICE, case-equal complete-mission virtual seconds per source; clear all sources; no FORMAL tests'
+goal_status: active_not_achieved
+storage: D_drive_only
+official_calls_in_latest_stage: 0
+official_calls_in_latest_official_batch: 10
+current_phase: v45_v46_v47_equivalent_cover_reduction_integer_cuts_and_milp_audited_no_incumbent_baselines_unchanged
+official_practice_batch: reports/frozen_practice_v33/batch_20260912_040922
+official_practice_bridge_validation: reports/frozen_practice_v33/bridge_20260912_040639
+official_practice_planned_per_problem: 5
+official_practice_batch_complete: true
+official_practice_audit: reports/frozen_practice_v33/audit_20260912_044703/final_verification.json
+official_practice_verified_actions: 2268
+official_practice_exact_replays: 10
+official_fixed21_conditional_bound: reports/frozen_practice_v33/conditional_fixed21_bound.json
+official_fixed21_conditional_bound_is_universal: false
+official_results:
+  q3: {runs: 5, all_cleared: 5, mean_seconds_per_source: 253.4305224390909, target: 180, gap: 73.43052243909091, target_met: false}
+  q4: {runs: 5, all_cleared: 5, mean_seconds_per_source: 571.5379450378355, target: 300, gap: 271.53794503783547, target_met: false}
+formal_tests_in_latest_stage: 0
+official_practice_count_limit: unlimited_per_public_problem_and_visible_practice_page
+acceptance_boundary: offline_development_and_holdout_scores_are_not_official_results
+q3:
+  metric_basis: offline_independent_32_case_validation_not_official_practice
+  effective_target_radius: 2000
+  parameter_correction: research/q3_verified_gate_v29/CORRECTION.md
+  algorithm: research/q3_scan_economy_v13/scan_policy.py
+  class: ScanEconomyPolicy
+  mode: station_only
+  base: frozen_pilot1600
+  validation: reports/scan_validation_v13/validation_20260911_235435
+  paired_previous_mean: 239.47963172096632
+  candidate_mean: 228.37315043076808
+  target: 180
+  gap: 48.37315043076808
+  movement: 175.31969060933952
+  radio: 47.980133928571426
+  optical: 5.0733258928571425
+q4:
+  metric_basis: offline_independent_32_case_validation_not_official_practice
+  algorithm: research/shaped_probe_v11/shaped_policy.py
+  class: ShapedProbePolicy
+  mode: shaped_cost
+  validation: reports/shaped_probe_validation_v11/validation_20260911_223412
+  paired_previous_mean: 467.4190824913961
+  candidate_mean: 461.4480937899562
+  target: 300
+  gap: 161.4480937899562
+  movement: 333.30657593281336
+  radio: 116.38716517857142
+  optical: 11.75435267857143
+actual_client_changed: false
+frozen_dependency_manifest: reports/scan_validation_v13/validation_20260911_235435/selection.json
+known_used_validation_seed_bases: [113100000, 117100000, 231100000, 237100000, 261100000, 267100000]
+seed_audit_requirement: compare_new_seeds_against_every_existing_reports_scene_file_and_unit_test_seed_ranges
+next_direction: q4_full_localization_exit_distribution_scheduling_after_v16_v17_v18_overlap_check_not_more_unchanged_649_pool_timeouts_and_q3_full_source_entry_exit_scheduling
+latest_q4_cover_model_stage:
+  versions: [cover_subsumption_v45, layer_cardinality_v46, cover_milp_v47]
+  status: audited_no_incumbent_no_new_task_scores_keep_frozen_q4_v11
+  equivalent_reduction_batch: reports/cover_subsumption_v45/geometry_20260912_085728
+  integer_cuts_batch: reports/layer_cardinality_v46/geometry_20260912_090504
+  milp_batch: reports/cover_milp_v47/geometry_20260912_091109
+  closeout_audit: reports/cover_milp_v47/closeout_v45_v47/analysis.json
+  point_pool_size: 649
+  original_cover_groups: 12144
+  retained_cover_groups: 3244
+  deletion_implications_verified: 8900
+  layer_intervals: 45
+  positive_integer_cuts: 17
+  exact_point_budgets_verified: 11880
+  interval_combination_lower_including_origin: 18
+  linear_integer_rows_verified: 3695
+  solver_statuses: [UNKNOWN, UNKNOWN, UNKNOWN]
+  new_unit_tests_passed: 27
+  regression_tests_passed: 20
+  total_tests_passed: 47
+  newest_frozen_source_files: 94
+  complete_candidates: 0
+  new_policy_runs: 0
+  official_calls: 0
+  formal_calls: 0
+  new_holdout: false
+  finite_pool_infeasibility_proved: false
+  continuous_plane_infeasibility_claimed: false
+latest_continuous_cost_bound_stage:
+  version: radial_dual_bound_v43
+  status: verified_diagnostic_not_algorithm_performance
+  batch: reports/radial_dual_bound_v43/bound_20260912_081400
+  audit: reports/radial_dual_bound_v43/audit_r2_20260912_081400/analysis.json
+  q3_absent_channel_operation_seconds_lower: 30
+  q4_absent_channel_operation_seconds_lower: 94
+  q3_movement_seconds_lower: 703.7167544041135
+  q4_movement_seconds_lower: 2277.4182362854804
+  q4_ten_source_seconds_per_source_lower: 326.7418236285479
+  official_count_mix_q3_lower_mean: 83.24799718385665
+  official_count_mix_q4_lower_mean: 274.00920270942896
+  sixteen_source_absence_bound_applicable: false
+  official_mean_targets_ruled_out: false
+  continuous_radial_cell_checks: 4624
+  additional_high_precision_point_checks: 3107
+  current_unit_tests_passed: 15
+  verifier_tests_passed: 3
+  regression_tests_passed: 18
+  new_policy_runs: 0
+  new_holdout_used: false
+  official_calls: 0
+latest_dual_guided_network_stage:
+  version: dual_guided_network_v44
+  status: unresolved_no_incumbent_before_registered_cutoff_not_infeasibility
+  batch: reports/dual_guided_network_v44/geometry_20260912_082759
+  audit: reports/dual_guided_network_v44/geometry_20260912_082759/audit.json
+  point_pool_size: 649
+  source_witness_count: 13392
+  witness_group_count: 12144
+  minimum_spacing_constraints: 432
+  solver_status: UNKNOWN
+  solver_wall_seconds: 30.016875100001926
+  solver_branches: 3690250
+  iterations: 1
+  complete_candidates: 0
+  known_21_point_reference_passed: true
+  unit_tests_passed: 4
+  new_policy_runs: 0
+  new_holdout_used: false
+  official_calls: 0
+latest_action_phase_stage:
+  version: q4_action_phase_v42
+  status: rejected_after_expanded_development_keep_frozen_q4_v11
+  screening: reports/q4_action_phase_v42/dev1_20260912_074048
+  expansion: reports/q4_action_phase_v42/dev2_20260912_074431
+  combined: reports/q4_action_phase_v42/combined.json
+  cases_per_mode: 18
+  main_runs: 54
+  successes: 54
+  previous_mean: 446.1337321046458
+  candidate_mean: 446.48750283050737
+  saved_seconds_per_source: -0.3537707258615607
+  improvement_percent: -0.07929701351938566
+  worst_regression_percent: 6.935969421557164
+  rotated_cases: 6
+  rotated_case_wins: 2
+  rotated_case_losses: 4
+  actions_audited: 15413
+  exact_physics_replays: 54
+  identity_exact_cases: 18
+  candidate_certificate_rechecks: 108
+  task_summed_rotated_stations_with_measurements: 108
+  independent_validation_gate_passed: false
+  screening_runs: 18
+  screening_successes: 18
+  screening_previous_mean: 450.4566597955908
+  screening_candidate_mean: 447.9330289786634
+  screening_saved_seconds_per_source: 2.5236308169274175
+  screening_worst_regression_percent: 1.4366239075366716
+  screening_actual_rotations: 2
+  screening_audited_actions: 5293
+  screening_exact_physics_replays: 18
+  new_tests_passed: 9
+  regression_tests_passed: 35
+  new_holdout_used: false
+  official_calls: 0
+latest_action_scheduler_stage:
+  version: q3_action_scheduler_v41
+  decision: reject_both_candidates_keep_frozen_q3_v13
+  development: reports/q3_action_scheduler_v41/dev1_20260912_071723
+  audit: reports/q3_action_scheduler_v41/dev1_20260912_071723/analysis.json
+  main_runs: 24
+  successes: 24
+  identity_exact_cases: 6
+  previous_mean: 232.35885842412043
+  atomic_action_mean: 236.23142144947337
+  stepwise_action_mean: 238.0936822643052
+  actions_audited: 2786
+  exact_physics_replays: 24
+  predicted_first_actions_verified: 199
+  max_clock_error: 0
+  new_tests_passed: 10
+  original_stage_regression_tests_passed: 11
+  new_holdout_used: false
+  official_calls: 0
+latest_segment_bound_stage:
+  version: feasible_segment_bound_v40
+  decision: retain_conditional_diagnostic_not_a_policy_or_universal_bound
+  evidence: reports/feasible_segment_bound_v40/bound_20260912_070654/analysis.json
+  independent_audit: reports/stage_audit_v40_v41/analysis.json
+  policy_runs: 0
+  independent_geometry_checks: 26
+  physical_replays: 2
+  physical_actions: 46
+  max_radius_station_displacement_upper_meters: 25.860388197656714
+  random_station_displacement_upper_meters: 31.232020435659653
+  max_radius_fixed_order_two_edge_saving_upper_seconds: 10.344155279062687
+  random_fixed_order_two_edge_saving_upper_seconds: 12.49280817426386
+  new_holdout_used: false
+  official_calls: 0
+latest_coverage_probe_stage:
+  version: coverage_probe_v39
+  decision: reject_both_candidates_keep_frozen_q4_v11
+  development: reports/coverage_probe_v39/dev1_20260912_064358
+  audit: reports/coverage_probe_v39/dev1_20260912_064358/analysis.json
+  geometry_diagnostic: reports/coverage_probe_v39/segment_20260912_065328/analysis.json
+  main_runs: 24
+  successes: 24
+  identity_exact_cases: 6
+  previous_mean: 450.4566597955908
+  station_bind_mean: 453.9088316068557
+  coverage_nudge_mean: 450.4566597955908
+  actual_binding_replacements: 2
+  actual_nudge_replacements: 0
+  point_generation_attempts: 1319
+  actual_optimizer_calls: 604
+  probe_proofs_passed: 286
+  nudge_continuous_passes: 0
+  actions_audited: 7042
+  exact_physics_replays: 24
+  actual_commitments_audited: 2
+  max_clock_error: 0
+  new_tests_passed: 13
+  regression_tests_passed: 28
+  diagnostic_complete_fresh_nonstation_points: 2
+  diagnostic_performance_runs: 0
+  new_holdout_used: false
+  official_calls: 0
+latest_paired_scan_stage:
+  version: paired_scan_commitment_v38
+  decision: reject_no_valid_commitment_keep_frozen_q4_v11
+  development: reports/paired_scan_commitment_v38/dev1_20260912_060916
+  audit: reports/paired_scan_commitment_v38/dev1_20260912_060916/analysis.json
+  diagnostic: reports/paired_scan_commitment_v38/rejection_20260912_061441/diagnostic.json
+  main_runs: 18
+  successes: 18
+  identity_exact_cases: 6
+  candidate_identical_to_baseline_cases: 6
+  previous_mean: 450.4566597955908
+  candidate_mean: 450.4566597955908
+  actual_pair_station_deletions: 0
+  candidate_point_pairs: 607
+  complementary_pair_removal_options: 26
+  price_passes: 1
+  continuous_passes: 0
+  rejected_candidate_remaining_area: 6875.378392412922
+  rejected_candidate_physical_counterexamples: 1
+  actions_audited: 5283
+  exact_physics_replays: 18
+  max_clock_error: 0
+  new_tests_passed: 12
+  regression_tests_passed: 23
+  new_holdout_used: false
+  official_calls: 0
+latest_layout_stage:
+  versions: [hybrid_discovery_v35, q3_symmetry_layout_v36, nonuniform_repair_v37]
+  decision: reject_all_keep_frozen_q3_v13_and_q4_v11
+  q4_hybrid_layouts_screened: 4304
+  q4_hybrid_continuous_certificates_checked: 128
+  q4_hybrid_complete: 33
+  q4_hybrid_eligible: 0
+  q4_nonuniform_repair_iterations: 45
+  q4_nonuniform_complete: 0
+  q4_nonuniform_best_remaining_area: 9280.218959215223
+  q4_public_geometry_counterexample: reports/layout_stage_v35_v37/public_geometry_counterexample.json
+  q3_main_runs: 18
+  q3_successes: 18
+  q3_identity_exact_cases: 6
+  q3_previous_mean: 232.35885842412043
+  q3_rotation_mean: 238.31945295320878
+  actions_audited: 2096
+  max_clock_error: 0
+  new_tests_passed: 15
+  new_holdout_used: false
+  official_calls: 0
+  audit: reports/layout_stage_v35_v37/audit_20260912_053447/analysis.json
+latest_q4_observation_stage:
+  version: q4_observation_gate_v34
+  decision: reject_both_candidates_keep_frozen_q4_v11
+  main_runs: 24
+  successes: 24
+  identity_exact_cases: 6
+  actions_audited: 7134
+  max_clock_error: 0
+  new_tests_passed: 7
+  regression_tests_passed: 13
+  new_holdout_used: false
+  official_calls: 0
+  previous_mean: 450.4566597955908
+  two_bearings_mean: 510.38747791874573
+  clear_ready_mean: 505.8802502303415
+  audit: reports/q4_observation_gate_v34/audit_20260912_050207/analysis.json
+latest_development_stage:
+  versions: [q3_verified_gate_v29, discovery_latency_v30, range_opportunity_v31, bounded_probe_v32]
+  decision: reject_all_new_variants_keep_frozen_q3_v13_and_q4_v11
+  main_runs: 156
+  successes: 156
+  actions_audited: 32414
+  max_clock_error: 0
+  regression_tests_passed: 34
+  frozen_files_unchanged: 59
+  new_holdout_used: false
+  official_calls_in_offline_experiments: 0
+  audit: reports/discovery_stage/audit_20260912_040923/analysis.json
+  regressions: reports/discovery_stage/regression_20260912_040817
+previous_q4_stage:
+  versions: [joint_motion_v16, bundled_motion_v17, patrol_commit_v18]
+  decision: reject_all_new_variants_keep_v11
+  main_runs: 78
+  successes: 78
+  actions_audited: 22984
+  regression_tests_passed: 32
+  deterministic_replays_passed: 3
+  new_holdout_used: false
+  audit: reports/q4_motion_stage/audit_20260912_003609/analysis.json
+  regressions: reports/q4_motion_stage/regression_20260912_003609
+  replays: reports/q4_motion_stage/replays_20260912_003717/replays.json
+previous_range_rollout_stage:
+  versions: [range_coupling_v19_r3, local_rollout_v20, adaptive_cover_v21, frontier_chase_v22]
+  decision: no_new_candidate_passes_development_gate
+  main_runs_including_archived_numeric_revisions: 180
+  successes: 180
+  actions_audited: 35513
+  regression_tests_passed: 49
+  deterministic_replays_passed: 4
+  new_holdout_used: false
+  q4_final_range_development:
+    cases: 18
+    previous_mean: 446.1337321046458
+    candidate_mean: 445.5212626692175
+    improvement_percent: 0.13728382127461414
+  q3_best_local_rollout_development:
+    cases: 6
+    previous_mean: 232.35885842412043
+    candidate_mean: 231.68619465394403
+  audit: reports/range_rollout_stage/audit_20260912_015140/analysis.json
+  regressions: reports/range_rollout_stage/regression_20260912_015140
+  replays: reports/range_rollout_stage/replays_20260912_015408/replays.json
+latest_joint_stage:
+  versions: [gated_repack_v23, patrol_cost_bound_v24, annular_topology_v25, selective_optical_v26, anchored_optical_v27_rejected, radial_optical_v28]
+  decision: no_new_candidate_passes_development_gate_keep_frozen_q3_and_q4
+  completed_main_runs: 72
+  successes: 72
+  q4_new_main_runs: 48
+  actions_audited: 17119
+  regression_tests_passed: 34
+  deterministic_replays_passed: 4
+  new_holdout_used: false
+  official_calls: 0
+  q4_best_development:
+    version: radial_optical_v28
+    mode: sentinel
+    cases: 6
+    previous_mean: 450.4566597955908
+    candidate_mean: 450.21622164735317
+    saved_seconds_per_source: 0.2404381482376247
+    improvement_percent: 0.053376533126792136
+    worst_regression_percent: 12.996298396515682
+    expanded: false
+  topology_screen:
+    configurations: 4200
+    finite_screen_passed: 35
+    continuously_complete: 2
+    eligible: 0
+  conditional_bound_diagnostic:
+    cases: 12
+    counts: [10, 13]
+    full_21_station_and_absent_scan_bound_mean: 403.03809376145256
+    universal_algorithm_bound: false
+    evidence: reports/patrol_cost_bound_v24/combined_20260912_023924.json
+  v27_geometric_precondition:
+    registered_layouts: 6
+    complete: 0
+    initial_fixture_errors: 4
+    performance_runs: 0
+    retained_original_sources: reports/anchored_optical_v27/geometry_rejected_20260912_024350
+  audit: reports/optical_stage/audit_20260912_030035/analysis.json
+  regressions: reports/optical_stage/regression_20260912_025351
+  replays: reports/optical_stage/audit_20260912_030035/analysis.json
+additional_unit_seed_reservations:
+  - v42_direct_471842503_factory_base_481942519_audited_in_reports_q4_action_phase_v42_unit_seed_audit
+  - v41_direct_431840351_factory_base_441941367_audited_in_reports_q3_action_scheduler_v41_unit_seed_audit
+  - v39_direct_401739251_factory_base_411839273_audited_in_reports_coverage_probe_v39_unit_seed_audit
+  - v38_direct_361425001_factory_base_381738127_audited_in_reports_paired_scan_commitment_v38_unit_seed_audit_v3
+  - v36_direct_361423001_factory_base_361423100_audited_in_reports_q3_symmetry_layout_v36_unit_seed_audit
+  - v37_constructed_public_geometry_counterexample_361424001_no_performance_metric
+  - v34_direct_361421001_factory_base_361421100_audited_in_reports_q4_observation_gate_v34_unit_seed_audit
+  - v29_direct_361416001_361416101_factory_bases_361416200_361416400
+  - v30_direct_361417001_factory_base_361417100
+  - v31_direct_361418001_factory_base_361418100
+  - v32_direct_361419001_factory_base_361419100
+  - v33_interface_factory_base_361420100
+  - v23_bases_361411300_and_361411400
+  - v24_361412000_plus_counts_2_4_7
+  - v26_361413001_361413002_361413100_361413101
+  - v27_registered_but_not_executed_factory_base_361414100_and_361414002
+  - v28_factory_base_361415100_and_direct_361415101_361415102
+do_not_repeat:
+  - Do not label v44 UNKNOWN as infeasible, or keep restarting the identical time-capped model; change the feasibility formulation or add structural guidance first.
+  - Do not apply v43 absence or inspection bounds to 16-source missions, and do not confuse the 10-source 326.74 bound with impossibility of the overall 300-second mean goal.
+  - Do not add mandatory receiver-switch costs to optical operations; v43 explicitly corrects that initial assumption before its main calculation.
+  - Do not interpret v43 fractional radial masses or dual bounds as an executable patrol network or achieved official time.
+  - Do not promote v42 from its 13-source gain; the locked 18-case expansion regressed, and source counts or scenario labels cannot be used for strategy selection.
+  - Do not retune v42 phase steps or next-action waypoint proxies on the expanded development cases; pursue a distinct coverage-obligation mechanism instead.
+  - Do not promote v41 next-action ordering or single-probe interleaving; both registered Q3 candidates increased complete-mission movement and mean time.
+  - Do not interpret v40 two-edge fixed-order saving bounds as adaptive mission savings or universal algorithm bounds; no new policy was run in v40.
+  - Do not promote v39 station_bind from its two true replacements; both complete missions regressed despite positive local route proxies.
+  - Do not simply increase v39 cut rounds or loosen geometry margins; the two safe interpolated points have geometry evidence only and do not establish performance gains.
+  - Do not repeat v38 pairing of the same natural action stops or loosen its coverage gate; zero valid commitments and the only lower-cost candidate has a real undetectable-source witness.
+  - Do not count v35 optical repair as free; all tested mixed layouts with extra optical stops missed the geometry-cost gate.
+  - Do not repeat v36 origin-center-based phase selection; both actually rotated development cases became slower.
+  - Do not promote v37 smaller networks with nonempty remnants; the best one has an explicit legal-physics undetectable-source counterexample.
+  - Do not repeat v34 maturity/admission threshold tuning; active measurements fell but movement and complete-task time increased for both preregistered modes.
+  - Do not equate shorter current waypoint tours with lower complete mission time.
+  - Do not repeat soft-prior or radial-radius tweaks without a new testable mechanism.
+  - Do not count hypothetical future observations or ignore nonempty coverage remnants.
+  - Do not use official FORMAL tests or change frozen Python dependencies; official PRACTICE requires a validated isolated adapter and visible mode checks.
+  - Do not describe frozen Q3 target_radius as 130; runtime is 2000 and older descriptions are corrected separately.
+  - Do not promote v30 route-proxy savings or v31 additional positive measurements as actual complete-mission gains.
+  - Do not promote v32 probabilistic long probes; both registered variants regressed despite bounded fallback.
+  - Do not promote v16 transit from its six-case gain; its full 18-case development comparison regressed.
+  - Do not treat predicted bundle exits or fixed patrol commitments as validated global travel savings.
+  - Q3 reception radius is fixed but unknown in [1000,1500]; never clip positive observations to 1000 meters.
+  - Do not count source-domain boundary recutting or GEOS roundoff as useful range-coupling information.
+  - Keeping a larger belief for roundoff safety never permits ignoring nonempty discovery-coverage remnants.
+  - Do not promote area-per-second frontier scans or source-first pursuit; both regressed in complete-task comparisons.
+  - Do not interpret the conditional 21-station full-absent-scan bound as a universal algorithm lower bound or a proof that 300 is impossible.
+  - Do not promote v28 sentinel from its 0.240438 second development gain; it failed the preregistered expansion gate.
+  - Do not equate passing finite topology witnesses with continuous discovery coverage; the 20-point candidates retained real holes.
+  - Failed optical sentinels or absent near responses do not prove that no sources exist near the origin.
+  - The v27 preserving-outer-coordinate networks all failed radio-only coverage and had no performance runs.
+earlier_q4_motion_report: reports/问题4_联合移动与巡查调度优化报告_v16_v18.md
+previous_report: reports/问题3与4_半径耦合和任务费用迭代报告_v19_v22.md
+previous_optical_report: reports/问题4_巡查成本与选择性光学优化报告_v23_v28.md
+official_baseline_report: reports/问题3与4_发现策略消融与官方演练核准报告_v29_v33.md
+previous_layout_report: reports/问题3与4_混合覆盖与非规则巡查验证报告_v35_v37.md
+previous_paired_scan_report: reports/问题4_双点联合扫描优化验证报告_v38.md
+previous_coverage_probe_report: reports/问题4_覆盖约束探测优化验证报告_v39.md
+previous_action_phase_report: reports/问题4_整网相位优化与稳定性验证报告_v42.md
+previous_continuous_bound_report: reports/问题3与4_连续费用下界与多层巡查搜索报告_v43_v44.md
+report: reports/问题4_覆盖模型约简与整数约束对照报告_v45_v47.md
+latest_q4_development_findings: research/cover_milp_v47/findings.md

@@ -1,0 +1,44 @@
+{
+  "holdout": {
+    "scenes": 24,
+    "all_passed": true,
+    "candidate_successes": 24,
+    "mode": "station_only",
+    "previous_mean": 241.8951390878918,
+    "candidate_mean": 229.8149628498783,
+    "improvement_percent": 4.9939722987257795,
+    "faster": 17,
+    "slower": 1,
+    "tied": 6,
+    "worst_regression_percent": 3.8498790554193807,
+    "target_met_on_this_phase": false
+  },
+  "stress": {
+    "scenes": 8,
+    "all_passed": true,
+    "candidate_successes": 8,
+    "mode": "station_only",
+    "previous_mean": 232.23310962018988,
+    "candidate_mean": 224.04771317343744,
+    "improvement_percent": 3.5246466191403147,
+    "faster": 7,
+    "slower": 1,
+    "tied": 0,
+    "worst_regression_percent": 1.0218487576441282,
+    "target_met_on_this_phase": false
+  },
+  "combined": {
+    "scenes": 32,
+    "all_passed": true,
+    "candidate_successes": 32,
+    "mode": "station_only",
+    "previous_mean": 239.47963172096632,
+    "candidate_mean": 228.37315043076808,
+    "improvement_percent": 4.637756125806614,
+    "faster": 24,
+    "slower": 2,
+    "tied": 6,
+    "worst_regression_percent": 3.8498790554193807,
+    "target_met_on_this_phase": false
+  }
+}

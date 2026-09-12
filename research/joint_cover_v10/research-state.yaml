@@ -1,0 +1,18 @@
+date: 2026-09-11
+goal_status: active_not_achieved
+phase_status: development_complete_not_promoted
+storage: D_drive_only
+official_calls: 0
+directory: reports/joint_cover_v10/dev1_20260911_221429
+runs: 24
+successes: 24
+source_integrity: unchanged
+q3_case_equal_means: {previous: 240.77023029548218, joint_cover: 249.01786591608646}
+q4_case_equal_means: {previous: 469.1899214409882, joint_cover: 467.8586007244151}
+q4_pairing: {faster: 1, slower: 3, ties: 2}
+q4_seconds_per_source_decomposition:
+  previous: {movement: 338.1899214409882, radio: 120.11538461538461, optical: 10.884615384615385}
+  joint_cover: {movement: 336.40988277569727, radio: 120.64102564102564, optical: 10.807692307692307}
+changed_cover_plans_q3: 0
+changed_cover_plans_q4: 0
+decision: no_evidence_for_dynamic_cover_replacement_keep_frozen_candidate
